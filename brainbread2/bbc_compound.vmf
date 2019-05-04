@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7538"
-	"mapversion" "1032"
+	"mapversion" "1036"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,13 +20,13 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "1032"
+	"mapversion" "1036"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxpropscreenwidth" "-1"
 	"skyname" "silent"
-	"zombies_max" "45"
+	"zombies_max" "50"
 	solid
 	{
 		"id" "418"
@@ -62948,8 +62948,8 @@ entity
 	"_light" "0 0 13 50"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
-	"angles" "0 300 0"
-	"pitch" "-12"
+	"pitch" "-45"
+	"angles" "0 0 0"
 	"origin" "205.41 68.478 287"
 	editor
 	{
@@ -64770,7 +64770,7 @@ entity
 	"id" "1775"
 	"classname" "light_spot"
 	"_cone" "65"
-	"_constant_attn" "90000"
+	"_constant_attn" "500"
 	"_distance" "0"
 	"_exponent" "1"
 	"_inner_cone" "35"
@@ -64797,7 +64797,7 @@ entity
 	"id" "1780"
 	"classname" "light"
 	"_constant_attn" "0"
-	"_distance" "115"
+	"_distance" "85"
 	"_light" "249 224 151 5"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
@@ -67400,6 +67400,7 @@ entity
 	"_lightscaleHDR" "1"
 	"_linear_attn" "0"
 	"_quadratic_attn" "1"
+	"spawnflags" "0"
 	"style" "0"
 	"origin" "-509 1803 97"
 	editor
@@ -95714,9 +95715,9 @@ entity
 		{
 			"id" "11666"
 			"plane" "(1777 555 40) (1841 555 40) (1841 555 104)"
-			"material" "CTZ/DOGE"
-			"uaxis" "[1 0 0 -196] 0.25"
-			"vaxis" "[0 0 -1 160] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 60] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -95790,9 +95791,9 @@ entity
 		{
 			"id" "11407"
 			"plane" "(1545 555 104) (1545 555 40) (1609 555 40)"
-			"material" "CTZ/DOGE"
-			"uaxis" "[1 0 0 -36] 0.25"
-			"vaxis" "[0 0 -1 160] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 60] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -95866,9 +95867,9 @@ entity
 		{
 			"id" "11443"
 			"plane" "(1385 555 104) (1385 555 40) (1449 555 40)"
-			"material" "CTZ/DOGE"
-			"uaxis" "[1 0 0 -164] 0.25"
-			"vaxis" "[0 0 -1 160] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 60] 0.25"
+			"vaxis" "[0 0 -1 32] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -107662,7 +107663,7 @@ entity
 {
 	"id" "92827"
 	"classname" "light"
-	"_distance" "45"
+	"_distance" "30"
 	"_light" "0 0 155 100"
 	"_lightHDR" "0 0 155 150"
 	"_lightscaleHDR" "1"
@@ -107682,7 +107683,7 @@ entity
 {
 	"id" "92832"
 	"classname" "light"
-	"_distance" "45"
+	"_distance" "30"
 	"_light" "0 0 155 100"
 	"_lightHDR" "0 0 155 150"
 	"_lightscaleHDR" "1"
@@ -107702,7 +107703,7 @@ entity
 {
 	"id" "92837"
 	"classname" "light"
-	"_distance" "45"
+	"_distance" "30"
 	"_light" "125 0 0 100"
 	"_lightHDR" "125 0 0 150"
 	"_lightscaleHDR" "1"
@@ -107722,7 +107723,7 @@ entity
 {
 	"id" "92842"
 	"classname" "light"
-	"_distance" "45"
+	"_distance" "30"
 	"_light" "125 0 0 100"
 	"_lightHDR" "125 0 0 150"
 	"_lightscaleHDR" "1"
@@ -107812,7 +107813,7 @@ entity
 {
 	"id" "93236"
 	"classname" "light"
-	"_distance" "45"
+	"_distance" "30"
 	"_light" "0 0 155 100"
 	"_lightHDR" "0 0 155 150"
 	"_lightscaleHDR" "1"
@@ -107832,7 +107833,7 @@ entity
 {
 	"id" "93241"
 	"classname" "light"
-	"_distance" "45"
+	"_distance" "30"
 	"_light" "0 0 155 100"
 	"_lightHDR" "0 0 155 150"
 	"_lightscaleHDR" "1"
@@ -107852,7 +107853,7 @@ entity
 {
 	"id" "93246"
 	"classname" "light"
-	"_distance" "45"
+	"_distance" "30"
 	"_light" "125 0 0 100"
 	"_lightHDR" "125 0 0 150"
 	"_lightscaleHDR" "1"
@@ -107872,7 +107873,7 @@ entity
 {
 	"id" "93251"
 	"classname" "light"
-	"_distance" "45"
+	"_distance" "30"
 	"_light" "125 0 0 100"
 	"_lightHDR" "125 0 0 150"
 	"_lightscaleHDR" "1"
@@ -115168,7 +115169,7 @@ entity
 	"id" "144231"
 	"classname" "light"
 	"_constant_attn" "0"
-	"_distance" "85"
+	"_distance" "65"
 	"_fifty_percent_distance" "0"
 	"_hardfalloff" "0"
 	"_light" "241 134 69 50"
@@ -127211,21 +127212,6 @@ entity
 }
 entity
 {
-	"id" "359034"
-	"classname" "info_boss_point"
-	"angles" "0 0 0"
-	"ClassnameLink" "npc_fred"
-	"origin" "-703.74 123.37 19"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[-10268 -11268]"
-	}
-}
-entity
-{
 	"id" "359119"
 	"classname" "point_teleport"
 	"angles" "0 0 0"
@@ -127265,14 +127251,14 @@ entity
 	"angles" "0 0 0"
 	"AutoSpawn" "0"
 	"goal_activity" "6"
-	"goal_interrupt_type" "1"
+	"goal_interrupt_type" "2"
 	"goal_type" "0"
 	"MaximumDistance" "2497"
 	"origin" "683 1041.5 60"
-	"RandomSpawnChance" "30"
-	"spawnflags" "1"
-	"SpawnFrequency" "0.7"
-	"SpawnInterval" "13"
+	"RandomSpawnChance" "35"
+	"spawnflags" "5"
+	"SpawnFrequency" "0.75"
+	"SpawnInterval" "12"
 	"targetname" "zmb_spwn_1"
 	"ZombieNumber" "20"
 	"ZombieType" "2"
@@ -179156,8 +179142,8 @@ entity
 		{
 			"id" "83307"
 			"plane" "(-555 -1141 8) (-555 -1565 8) (-555 -1565 136)"
-			"material" "CONCRETE/CONCRETEWALL015C"
-			"uaxis" "[0 1 0 16] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 28] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -179210,8 +179196,8 @@ entity
 		{
 			"id" "83315"
 			"plane" "(-479 -605 40) (-479 -733 40) (-479 -733 104)"
-			"material" "CONCRETE/CONCRETEWALL015C"
-			"uaxis" "[0 1 0 16] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 60] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -179286,8 +179272,8 @@ entity
 		{
 			"id" "83321"
 			"plane" "(-479 -849 40) (-479 -977 40) (-479 -977 104)"
-			"material" "CONCRETE/CONCRETEWALL015C"
-			"uaxis" "[0 1 0 16] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 0 60] 0.25"
 			"vaxis" "[0 0 -1 32] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -191328,13 +191314,116 @@ entity
 		"logicalpos" "[500 5500]"
 	}
 }
+entity
+{
+	"id" "455001"
+	"classname" "zombie_volume"
+	"angles" "0 0 0"
+	"AutoSpawn" "0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
+	"goal_type" "0"
+	"MaximumDistance" "1235"
+	"MaximumZDifference" "0"
+	"origin" "97 301 60"
+	"RandomSpawnChance" "15"
+	"spawnflags" "5"
+	"SpawnFrequency" "0.8"
+	"SpawnInterval" "15"
+	"targetname" "zmb_spwn_1"
+	"ZombieNumber" "8"
+	"ZombieType" "1"
+	solid
+	{
+		"id" "454998"
+		side
+		{
+			"id" "85062"
+			"plane" "(-14 688 108) (208 688 108) (208 -85.9999 108)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "85061"
+			"plane" "(-14 -85.9999 12) (208 -85.9999 12) (208 688 12)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "85060"
+			"plane" "(-14 688 108) (-14 -85.9999 108) (-14 -85.9999 12)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "85059"
+			"plane" "(208 688 12) (208 -85.9999 12) (208 -85.9999 108)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "85058"
+			"plane" "(208 688 108) (-14 688 108) (-14 688 12)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "85057"
+			"plane" "(208 -85.9999 12) (-14 -85.9999 12) (-14 -85.9999 108)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-2209.34 956.01 76.5923]"
-		"look" "[-2306.31 954.243 74.5604]"
+		"position" "[-559.606 241.138 87.4425]"
+		"look" "[-483.21 181.452 84.0572]"
 	}
 }
 cordon
