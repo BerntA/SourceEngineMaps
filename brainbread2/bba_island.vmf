@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7538"
-	"mapversion" "129"
+	"mapversion" "132"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -62,7 +62,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "129"
+	"mapversion" "132"
 	"classname" "worldspawn"
 	"arena_reinforcements" "10"
 	"arena_respawntime" "20"
@@ -12553,7 +12553,7 @@ entity
 	"model" "models/props_foliage/cedar01.mdl"
 	"skin" "0"
 	"solid" "6"
-	"origin" "4057.68 -2195 135"
+	"origin" "4057 -2195 132"
 	editor
 	{
 		"color" "255 255 0"
@@ -12742,7 +12742,7 @@ entity
 	"model" "models/props_foliage/cedar_medium01.mdl"
 	"skin" "0"
 	"solid" "6"
-	"origin" "4751.69 -2376 186"
+	"origin" "4752 -2376 185"
 	editor
 	{
 		"color" "255 255 0"
@@ -13243,7 +13243,7 @@ entity
 	"model" "models/props_foliage/mall_fern01.mdl"
 	"skin" "0"
 	"solid" "0"
-	"origin" "4616.9 -2495 185"
+	"origin" "4617 -2495 176"
 	editor
 	{
 		"color" "255 255 0"
@@ -13373,7 +13373,7 @@ entity
 	"model" "models/props_foliage/mall_grass_bush01.mdl"
 	"skin" "0"
 	"solid" "0"
-	"origin" "4678.39 -1686 162"
+	"origin" "4678 -1686 161"
 	editor
 	{
 		"color" "255 255 0"
@@ -13395,7 +13395,7 @@ entity
 	"model" "models/props_foliage/mall_grass_bush01.mdl"
 	"skin" "0"
 	"solid" "0"
-	"origin" "5070.15 -2250 217"
+	"origin" "5070.15 -2250 215"
 	editor
 	{
 		"color" "255 255 0"
@@ -13416,7 +13416,7 @@ entity
 	"model" "models/props_foliage/mall_grass_bush01.mdl"
 	"skin" "0"
 	"solid" "6"
-	"origin" "3676 -1930.29 113"
+	"origin" "3677 -1930.29 107"
 	editor
 	{
 		"color" "255 255 0"
@@ -13480,7 +13480,7 @@ entity
 	"model" "models/props_foliage/mall_palm01.mdl"
 	"skin" "0"
 	"solid" "6"
-	"origin" "3805 -2347 112"
+	"origin" "3805 -2347 109"
 	editor
 	{
 		"color" "255 255 0"
@@ -13948,7 +13948,7 @@ entity
 	"model" "models/props_foliage/mall_small_palm01_cluster.mdl"
 	"skin" "0"
 	"solid" "6"
-	"origin" "3315.7 -1962.29 99"
+	"origin" "3315.7 -1963 91"
 	editor
 	{
 		"color" "255 255 0"
@@ -17561,8 +17561,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[3971.56 -3388.25 479.032]"
-		"look" "[3717.23 -3326.71 429.119]"
+		"position" "[3796.76 -1810.24 141.742]"
+		"look" "[3783.78 -1544.19 145.464]"
 	}
 	camera
 	{
