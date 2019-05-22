@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7538"
-	"mapversion" "148"
+	"mapversion" "151"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -62,7 +62,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "148"
+	"mapversion" "151"
 	"classname" "worldspawn"
 	"arena_reinforcements" "10"
 	"arena_respawntime" "20"
@@ -14797,10 +14797,10 @@ entity
 	"id" "10025"
 	"classname" "weapon_frag"
 	"AmmoCount" "-1"
-	"angles" "-5 0 0"
+	"angles" "-6.94039 14.0507 -0.487322"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"origin" "1491.41 -1996 111.74"
+	"origin" "1491.01 -1997 110.53"
 	"spawnflags" "0"
 	editor
 	{
@@ -14815,10 +14815,10 @@ entity
 	"id" "10027"
 	"classname" "weapon_frag"
 	"AmmoCount" "-1"
-	"angles" "4.82922 195.055 1.29717"
+	"angles" "6.53259 211.659 2.35049"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"origin" "1494.4 -1997 112"
+	"origin" "1497 -1994 111"
 	"spawnflags" "0"
 	editor
 	{
@@ -16570,7 +16570,7 @@ entity
 	"AlwaysTransition" "No"
 	"angles" "0 90 0"
 	"boss" "1"
-	"damageScale" "0.65"
+	"damageScale" "0.6"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
 	"DontPickupWeapons" "1"
@@ -16578,7 +16578,7 @@ entity
 	"friendly" "0"
 	"GameEndAlly" "No"
 	"gender" "1"
-	"healthScale" "2.15"
+	"healthScale" "5.5"
 	"hintlimiting" "0"
 	"ignoreunseenenemies" "0"
 	"model" "models/characters/male_03.mdl"
@@ -16592,9 +16592,9 @@ entity
 	"rendermode" "0"
 	"skin" "0"
 	"sleepstate" "0"
-	"spawnflags" "1073664"
+	"spawnflags" "1065472"
 	"targetname" "boss_secret"
-	"totalhealth" "1350"
+	"totalhealth" "5000"
 	"wakeradius" "0"
 	"wakesquad" "0"
 	"origin" "2947 -3467 -16"
@@ -17570,8 +17570,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[2891.39 -1920.45 469.715]"
-		"look" "[2651.65 -2029.22 428.961]"
+		"position" "[2997.6 -3547.56 32.1022]"
+		"look" "[3021.72 -3282.36 24.665]"
 	}
 	camera
 	{
