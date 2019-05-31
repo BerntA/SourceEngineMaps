@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7538"
-	"mapversion" "61"
+	"mapversion" "66"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,14 +20,14 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "61"
+	"mapversion" "66"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxpropscreenwidth" "-1"
 	"skyname" "sky_bb2_04_hdr"
 	"zomb_ext_vis" "1"
-	"zombies_max" "35"
+	"zombies_max" "40"
 	solid
 	{
 		"id" "2"
@@ -41155,6 +41155,158 @@ world
 			"visgroupautoshown" "1"
 		}
 	}
+	solid
+	{
+		"id" "319061"
+		side
+		{
+			"id" "10697"
+			"plane" "(-228 2431 32) (-137 2431 32) (-137 2296 32)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10698"
+			"plane" "(-228 2296 -44) (-137 2296 -44) (-137 2431 -44)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10699"
+			"plane" "(-228 2431 32) (-228 2296 32) (-228 2296 -44)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10700"
+			"plane" "(-137 2431 -44) (-137 2296 -44) (-137 2296 32)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10701"
+			"plane" "(-137 2431 32) (-228 2431 32) (-228 2431 -44)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10702"
+			"plane" "(-137 2296 -44) (-228 2296 -44) (-228 2296 32)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 112 153"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "319065"
+		side
+		{
+			"id" "10703"
+			"plane" "(-279 2431 32) (-228 2431 32) (-228 2391 32)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10704"
+			"plane" "(-279 2391 -44) (-228 2391 -44) (-228 2431 -44)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10705"
+			"plane" "(-279 2431 32) (-279 2391 32) (-279 2391 -44)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10706"
+			"plane" "(-228 2431 -44) (-228 2391 -44) (-228 2391 32)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10707"
+			"plane" "(-228 2431 32) (-279 2431 32) (-279 2431 -44)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10708"
+			"plane" "(-228 2391 -44) (-279 2391 -44) (-279 2391 32)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 180 177"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
 	group
 	{
 		"id" "286415"
@@ -42339,11 +42491,11 @@ entity
 	"AutoSpawn" "1"
 	"goal_activity" "6"
 	"goal_interrupt_type" "1"
-	"MaximumDistance" "5200"
+	"MaximumDistance" "9000"
 	"origin" "-1211.43 -1386.67 70"
 	"RandomSpawnChance" "25"
-	"spawnflags" "1"
-	"SpawnInterval" "25"
+	"spawnflags" "5"
+	"SpawnInterval" "20"
 	"ZombieNumber" "7"
 	"ZombieType" "2"
 	solid
@@ -42438,11 +42590,11 @@ entity
 	"AutoSpawn" "1"
 	"goal_activity" "6"
 	"goal_interrupt_type" "1"
-	"MaximumDistance" "5200"
+	"MaximumDistance" "9000"
 	"origin" "-1544.57 -55.47 70"
 	"RandomSpawnChance" "25"
-	"spawnflags" "1"
-	"SpawnInterval" "25"
+	"spawnflags" "5"
+	"SpawnInterval" "20"
 	"ZombieNumber" "7"
 	"ZombieType" "2"
 	solid
@@ -42537,11 +42689,11 @@ entity
 	"AutoSpawn" "1"
 	"goal_activity" "6"
 	"goal_interrupt_type" "1"
-	"MaximumDistance" "5200"
+	"MaximumDistance" "9000"
 	"origin" "-60.57 -1525.33 60"
 	"RandomSpawnChance" "25"
-	"spawnflags" "1"
-	"SpawnInterval" "25"
+	"spawnflags" "5"
+	"SpawnInterval" "20"
 	"ZombieNumber" "7"
 	"ZombieType" "2"
 	solid
@@ -42966,11 +43118,11 @@ entity
 	"AutoSpawn" "1"
 	"goal_activity" "6"
 	"goal_interrupt_type" "1"
-	"MaximumDistance" "5200"
+	"MaximumDistance" "9000"
 	"origin" "1544.57 -173.15 70"
 	"RandomSpawnChance" "25"
-	"spawnflags" "1"
-	"SpawnInterval" "25"
+	"spawnflags" "5"
+	"SpawnInterval" "20"
 	"ZombieNumber" "7"
 	"ZombieType" "2"
 	solid
@@ -43065,11 +43217,11 @@ entity
 	"AutoSpawn" "1"
 	"goal_activity" "6"
 	"goal_interrupt_type" "1"
-	"MaximumDistance" "5200"
+	"MaximumDistance" "9000"
 	"origin" "1176.9 -1477.16 70"
 	"RandomSpawnChance" "25"
-	"spawnflags" "1"
-	"SpawnInterval" "25"
+	"spawnflags" "5"
+	"SpawnInterval" "20"
 	"ZombieNumber" "7"
 	"ZombieType" "2"
 	solid
@@ -43164,11 +43316,11 @@ entity
 	"AutoSpawn" "1"
 	"goal_activity" "6"
 	"goal_interrupt_type" "1"
-	"MaximumDistance" "5200"
+	"MaximumDistance" "9000"
 	"origin" "-1211.43 1386.67 70"
 	"RandomSpawnChance" "25"
-	"spawnflags" "1"
-	"SpawnInterval" "25"
+	"spawnflags" "5"
+	"SpawnInterval" "20"
 	"ZombieNumber" "7"
 	"ZombieType" "2"
 	solid
@@ -43263,11 +43415,11 @@ entity
 	"AutoSpawn" "1"
 	"goal_activity" "6"
 	"goal_interrupt_type" "1"
-	"MaximumDistance" "5200"
+	"MaximumDistance" "9000"
 	"origin" "1211.43 1386.67 70"
 	"RandomSpawnChance" "25"
-	"spawnflags" "1"
-	"SpawnInterval" "25"
+	"spawnflags" "5"
+	"SpawnInterval" "20"
 	"ZombieNumber" "7"
 	"ZombieType" "2"
 	solid
@@ -43362,11 +43514,11 @@ entity
 	"AutoSpawn" "1"
 	"goal_activity" "6"
 	"goal_interrupt_type" "1"
-	"MaximumDistance" "5200"
+	"MaximumDistance" "9000"
 	"origin" "60 1525.33 69"
 	"RandomSpawnChance" "25"
-	"spawnflags" "1"
-	"SpawnInterval" "25"
+	"spawnflags" "5"
+	"SpawnInterval" "20"
 	"ZombieNumber" "7"
 	"ZombieType" "2"
 	solid
@@ -51414,9 +51566,9 @@ entity
 	"returndelay" "-1"
 	"Script" "door01"
 	"skin" "3"
-	"soundcloseoverride" "doors/door_latch1.wav"
-	"soundmoveoverride" "doors/door_squeek1.wav"
-	"soundopenoverride" "doors/door_latch3.wav"
+	"soundcloseoverride" "DoorHandles.Unlocked1"
+	"soundmoveoverride" "Doors.Move3"
+	"soundopenoverride" "DoorHandles.Unlocked1"
 	"spawnflags" "8192"
 	"spawnpos" "0"
 	"speed" "100"
@@ -51523,7 +51675,7 @@ entity
 {
 	"id" "166560"
 	"classname" "func_door"
-	"closesound" "doors/door_chainlink_close2.wav"
+	"closesound" "Doors.Armory.Close2"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
 	"dmg" "0"
@@ -51534,8 +51686,8 @@ entity
 	"locked_sentence" "0"
 	"loopmovesound" "0"
 	"movedir" "0 90 0"
-	"noise1" "doors/door_chainlink_move1.wav"
-	"noise2" "doors/door_chainlink_close1.wav"
+	"noise1" "Doors.Armory.Open"
+	"noise2" "Doors.Armory.Close1"
 	"origin" "469.5 -1011 82"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
@@ -51544,7 +51696,7 @@ entity
 	"spawnflags" "0"
 	"spawnpos" "0"
 	"speed" "100"
-	"startclosesound" "doors/door_chainlink_move1.wav"
+	"startclosesound" "Doors.Armory.Open"
 	"targetname" "locker_door"
 	"unlocked_sentence" "0"
 	"wait" "-1"
@@ -51958,7 +52110,7 @@ entity
 {
 	"id" "170224"
 	"classname" "func_door"
-	"closesound" "doors/door_chainlink_close2.wav"
+	"closesound" "Doors.Armory.Close2"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
 	"dmg" "0"
@@ -51969,8 +52121,8 @@ entity
 	"locked_sentence" "0"
 	"loopmovesound" "0"
 	"movedir" "0 0 0"
-	"noise1" "doors/door_chainlink_move1.wav"
-	"noise2" "doors/door_chainlink_close1.wav"
+	"noise1" "Doors.Armory.Open"
+	"noise2" "Doors.Armory.Close1"
 	"origin" "568 -897.5 82"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
@@ -51979,7 +52131,7 @@ entity
 	"spawnflags" "0"
 	"spawnpos" "0"
 	"speed" "100"
-	"startclosesound" "doors/door_chainlink_move1.wav"
+	"startclosesound" "Doors.Armory.Open"
 	"targetname" "locker_door"
 	"unlocked_sentence" "0"
 	"wait" "-1"
@@ -52465,7 +52617,7 @@ entity
 {
 	"id" "171374"
 	"classname" "func_door"
-	"closesound" "doors/door_chainlink_close2.wav"
+	"closesound" "Doors.Armory.Close2"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
 	"dmg" "0"
@@ -52476,8 +52628,8 @@ entity
 	"locked_sentence" "0"
 	"loopmovesound" "0"
 	"movedir" "0 0 0"
-	"noise1" "doors/door_chainlink_move1.wav"
-	"noise2" "doors/door_chainlink_close1.wav"
+	"noise1" "Doors.Armory.Open"
+	"noise2" "Doors.Armory.Close1"
 	"origin" "633 -897.5 82"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
@@ -52486,7 +52638,7 @@ entity
 	"spawnflags" "0"
 	"spawnpos" "0"
 	"speed" "100"
-	"startclosesound" "doors/door_chainlink_move1.wav"
+	"startclosesound" "Doors.Armory.Open"
 	"targetname" "locker_door"
 	"unlocked_sentence" "0"
 	"wait" "-1"
@@ -53432,7 +53584,7 @@ entity
 {
 	"id" "172474"
 	"classname" "func_door"
-	"closesound" "doors/door_chainlink_close2.wav"
+	"closesound" "Doors.Armory.Close2"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
 	"dmg" "0"
@@ -53443,8 +53595,8 @@ entity
 	"locked_sentence" "0"
 	"loopmovesound" "0"
 	"movedir" "0 180 0"
-	"noise1" "doors/door_chainlink_move1.wav"
-	"noise2" "doors/door_chainlink_close1.wav"
+	"noise1" "Doors.Armory.Open"
+	"noise2" "Doors.Armory.Close1"
 	"origin" "649 -1022.5 82"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
@@ -53453,7 +53605,7 @@ entity
 	"spawnflags" "0"
 	"spawnpos" "0"
 	"speed" "100"
-	"startclosesound" "doors/door_chainlink_move1.wav"
+	"startclosesound" "Doors.Armory.Open"
 	"targetname" "locker_door"
 	"unlocked_sentence" "0"
 	"wait" "-1"
@@ -53849,7 +54001,7 @@ entity
 {
 	"id" "172488"
 	"classname" "func_door"
-	"closesound" "doors/door_chainlink_close2.wav"
+	"closesound" "Doors.Armory.Close2"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
 	"dmg" "0"
@@ -53860,8 +54012,8 @@ entity
 	"locked_sentence" "0"
 	"loopmovesound" "0"
 	"movedir" "0 180 0"
-	"noise1" "doors/door_chainlink_move1.wav"
-	"noise2" "doors/door_chainlink_close1.wav"
+	"noise1" "Doors.Armory.Open"
+	"noise2" "Doors.Armory.Close1"
 	"origin" "584 -1022.5 82"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
@@ -53870,7 +54022,7 @@ entity
 	"spawnflags" "0"
 	"spawnpos" "0"
 	"speed" "100"
-	"startclosesound" "doors/door_chainlink_move1.wav"
+	"startclosesound" "Doors.Armory.Open"
 	"targetname" "locker_door"
 	"unlocked_sentence" "0"
 	"wait" "-1"
@@ -54294,7 +54446,7 @@ entity
 {
 	"id" "175906"
 	"classname" "func_door"
-	"closesound" "doors/door_chainlink_close2.wav"
+	"closesound" "Doors.Armory.Close2"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
 	"dmg" "0"
@@ -54305,8 +54457,8 @@ entity
 	"locked_sentence" "0"
 	"loopmovesound" "0"
 	"movedir" "0 0 0"
-	"noise1" "doors/door_chainlink_move1.wav"
-	"noise2" "doors/door_chainlink_close1.wav"
+	"noise1" "Doors.Armory.Open"
+	"noise2" "Doors.Armory.Close1"
 	"origin" "568 -1069.5 82"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
@@ -54315,7 +54467,7 @@ entity
 	"spawnflags" "0"
 	"spawnpos" "0"
 	"speed" "100"
-	"startclosesound" "doors/door_chainlink_move1.wav"
+	"startclosesound" "Doors.Armory.Open"
 	"targetname" "locker_door"
 	"unlocked_sentence" "0"
 	"wait" "-1"
@@ -54711,7 +54863,7 @@ entity
 {
 	"id" "175912"
 	"classname" "func_door"
-	"closesound" "doors/door_chainlink_close2.wav"
+	"closesound" "Doors.Armory.Close2"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
 	"dmg" "0"
@@ -54722,8 +54874,8 @@ entity
 	"locked_sentence" "0"
 	"loopmovesound" "0"
 	"movedir" "0 0 0"
-	"noise1" "doors/door_chainlink_move1.wav"
-	"noise2" "doors/door_chainlink_close1.wav"
+	"noise1" "Doors.Armory.Open"
+	"noise2" "Doors.Armory.Close1"
 	"origin" "633 -1069.5 82"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
@@ -54732,7 +54884,7 @@ entity
 	"spawnflags" "0"
 	"spawnpos" "0"
 	"speed" "100"
-	"startclosesound" "doors/door_chainlink_move1.wav"
+	"startclosesound" "Doors.Armory.Open"
 	"targetname" "locker_door"
 	"unlocked_sentence" "0"
 	"wait" "-1"
@@ -130805,8 +130957,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[330.879 -373.115 175.07]"
-		"look" "[385.768 -631.394 139.837]"
+		"position" "[414.723 1032.36 148.369]"
+		"look" "[163.335 1005.97 64.2846]"
 	}
 	camera
 	{
