@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7538"
-	"mapversion" "998"
+	"mapversion" "1001"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -26,7 +26,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "998"
+	"mapversion" "1001"
 	"classname" "worldspawn"
 	"arena_reinforcements" "16"
 	"arena_respawntime" "20"
@@ -64332,7 +64332,7 @@ entity
 	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/detail/misc_cloth_corner.mdl"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1681 -133 172.25"
 	editor
 	{
@@ -108854,7 +108854,7 @@ entity
 	"friendly" "0"
 	"GameEndAlly" "No"
 	"gender" "1"
-	"healthScale" "0"
+	"healthScale" "4.9"
 	"model" "models/characters/male_02.mdl"
 	"modelscale" "1.0"
 	"npcname" "Bushmasta"
@@ -112505,8 +112505,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-706.151 -163.868 316.513]"
-		"look" "[-363.995 -76.5583 61.8347]"
+		"position" "[-2887.2 -295.278 117.778]"
+		"look" "[-3286.48 -130.01 64.7193]"
 	}
 }
 cordon
