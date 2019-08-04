@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7538"
-	"mapversion" "153"
+	"mapversion" "156"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -62,7 +62,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "153"
+	"mapversion" "156"
 	"classname" "worldspawn"
 	"arena_reinforcements" "10"
 	"arena_respawntime" "20"
@@ -13281,7 +13281,7 @@ entity
 {
 	"id" "153"
 	"classname" "info_player_human"
-	"angles" "359 177 0"
+	"angles" "0 177 0"
 	"IsMasterSpawn" "0"
 	"origin" "5023.68 -2175 238"
 	"StartEnabled" "1"
@@ -13298,7 +13298,7 @@ entity
 {
 	"id" "154"
 	"classname" "info_player_human"
-	"angles" "359 179 0"
+	"angles" "0 179 0"
 	"IsMasterSpawn" "0"
 	"origin" "5030.77 -2072 236"
 	"StartEnabled" "1"
@@ -13315,7 +13315,7 @@ entity
 {
 	"id" "155"
 	"classname" "info_player_human"
-	"angles" "359 178 0"
+	"angles" "0 178 0"
 	"IsMasterSpawn" "0"
 	"origin" "5130.18 -2151 239"
 	"StartEnabled" "1"
@@ -21366,7 +21366,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "1"
-	"origin" "2853.06 -357.237 -25.8257"
+	"origin" "2853.06 -357.237 -19.8257"
 	editor
 	{
 		"color" "232 219 8"
@@ -21381,7 +21381,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "2"
-	"origin" "3305.08 -365.343 -29.5259"
+	"origin" "3305.08 -365.343 -23.5259"
 	editor
 	{
 		"color" "232 219 8"
@@ -21396,7 +21396,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "3"
-	"origin" "3845.02 -457.84 -27.067"
+	"origin" "3845.02 -457.84 -21.067"
 	editor
 	{
 		"color" "232 219 8"
@@ -21411,7 +21411,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "4"
-	"origin" "2183.55 -394.599 -27.253"
+	"origin" "2183.55 -394.599 -21.253"
 	editor
 	{
 		"color" "232 219 8"
@@ -21426,7 +21426,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "5"
-	"origin" "1475.83 -448.035 -31.8323"
+	"origin" "1475.83 -448.035 -25.8323"
 	editor
 	{
 		"color" "232 219 8"
@@ -21441,7 +21441,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "6"
-	"origin" "709.1 -570.855 -28.6678"
+	"origin" "709.1 -570.855 -22.6678"
 	editor
 	{
 		"color" "232 219 8"
@@ -21456,7 +21456,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "7"
-	"origin" "402 -1245.66 -32.2797"
+	"origin" "402 -1245.66 -26.2797"
 	editor
 	{
 		"color" "232 219 8"
@@ -21471,7 +21471,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "8"
-	"origin" "442.554 -1971.77 -36.3955"
+	"origin" "442.554 -1971.77 -30.3955"
 	editor
 	{
 		"color" "232 219 8"
@@ -21486,7 +21486,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "9"
-	"origin" "425.595 -2756.16 -49"
+	"origin" "425.595 -2756.16 -43"
 	editor
 	{
 		"color" "232 219 8"
@@ -21501,7 +21501,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "10"
-	"origin" "458.651 -3363.16 -35.7406"
+	"origin" "458.651 -3363.16 -29.7406"
 	editor
 	{
 		"color" "232 219 8"
@@ -21516,7 +21516,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "11"
-	"origin" "926.334 -3549.45 -25.2714"
+	"origin" "926.334 -3549.45 -19.2714"
 	editor
 	{
 		"color" "232 219 8"
@@ -21531,7 +21531,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "12"
-	"origin" "1684.7 -3627.11 -31.6542"
+	"origin" "1684.7 -3627.11 -25.6542"
 	editor
 	{
 		"color" "232 219 8"
@@ -21546,7 +21546,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "13"
-	"origin" "2439.38 -3619.22 -26.4072"
+	"origin" "2439.38 -3619.22 -20.4072"
 	editor
 	{
 		"color" "232 219 8"
@@ -21561,7 +21561,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "14"
-	"origin" "3178.34 -3593.48 -26.0463"
+	"origin" "3178.34 -3593.48 -20.0463"
 	editor
 	{
 		"color" "232 219 8"
@@ -21576,7 +21576,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "15"
-	"origin" "4029.27 -3619.02 -25.4771"
+	"origin" "4029.27 -3619.02 -19.4771"
 	editor
 	{
 		"color" "232 219 8"
@@ -21591,7 +21591,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "16"
-	"origin" "4934.99 -3618.93 -29.1746"
+	"origin" "4934.99 -3618.93 -23.1746"
 	editor
 	{
 		"color" "232 219 8"
@@ -21606,7 +21606,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "17"
-	"origin" "5592.6 -3478.2 -32.5312"
+	"origin" "5592.6 -3478.2 -26.5312"
 	editor
 	{
 		"color" "232 219 8"
@@ -21621,7 +21621,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "18"
-	"origin" "5798.85 -2867.94 -13.2541"
+	"origin" "5798.85 -2867.94 -7.25409"
 	editor
 	{
 		"color" "232 219 8"
@@ -21636,7 +21636,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "19"
-	"origin" "5903.08 -2126.82 -7.43743"
+	"origin" "5903.08 -2126.82 -1.43742"
 	editor
 	{
 		"color" "232 219 8"
@@ -21651,7 +21651,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "20"
-	"origin" "5899.15 -1118.5 -28.9551"
+	"origin" "5899.15 -1118.5 -22.9551"
 	editor
 	{
 		"color" "232 219 8"
@@ -21666,7 +21666,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "21"
-	"origin" "5478.84 -464.988 -27.7476"
+	"origin" "5478.84 -464.988 -21.7476"
 	editor
 	{
 		"color" "232 219 8"
@@ -21681,7 +21681,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "22"
-	"origin" "4707.71 -511.999 -31.733"
+	"origin" "4707.71 -511.999 -25.733"
 	editor
 	{
 		"color" "232 219 8"
@@ -21696,7 +21696,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "23"
-	"origin" "3727.03 -1142.97 56.2009"
+	"origin" "3727.03 -1142.97 62.2009"
 	editor
 	{
 		"color" "232 219 8"
@@ -21711,7 +21711,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "24"
-	"origin" "3666.48 -2005.69 114.221"
+	"origin" "3666.48 -2005.69 120.221"
 	editor
 	{
 		"color" "232 219 8"
@@ -21726,7 +21726,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "25"
-	"origin" "3544.78 -3017.67 65.8918"
+	"origin" "3544.78 -3017.67 71.8918"
 	editor
 	{
 		"color" "232 219 8"
@@ -21741,7 +21741,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "26"
-	"origin" "4872.77 -2186.11 206.084"
+	"origin" "4872.77 -2186.11 212.084"
 	editor
 	{
 		"color" "232 219 8"
@@ -21756,7 +21756,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "27"
-	"origin" "4281.07 -2137.3 148.459"
+	"origin" "4281.07 -2137.3 154.459"
 	editor
 	{
 		"color" "232 219 8"
@@ -21771,7 +21771,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "28"
-	"origin" "2933.95 -2202.18 174.232"
+	"origin" "2933.95 -2202.18 180.232"
 	editor
 	{
 		"color" "232 219 8"
@@ -21786,7 +21786,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "29"
-	"origin" "2100.15 -2197.17 174.339"
+	"origin" "2100.15 -2197.17 180.339"
 	editor
 	{
 		"color" "232 219 8"
@@ -21801,7 +21801,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "30"
-	"origin" "2942.12 -1350.99 58.1835"
+	"origin" "2942.12 -1350.99 64.1835"
 	editor
 	{
 		"color" "232 219 8"
@@ -21816,7 +21816,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "31"
-	"origin" "1105.01 -1988.87 -3.09045"
+	"origin" "1105.01 -1988.87 2.90956"
 	editor
 	{
 		"color" "232 219 8"
@@ -21831,7 +21831,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "32"
-	"origin" "5281.06 -2171.12 211.179"
+	"origin" "5281.06 -2171.12 217.179"
 	editor
 	{
 		"color" "232 219 8"
@@ -21846,7 +21846,7 @@ entity
 	"classname" "info_node"
 	"angles" "0 0 0"
 	"nodeid" "33"
-	"origin" "4636.03 -3002.18 -9.20749"
+	"origin" "4636.03 -3002.18 -3.20748"
 	editor
 	{
 		"color" "232 219 8"
@@ -22078,8 +22078,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[4077.13 -2361.86 331.207]"
-		"look" "[4332.01 -2284.43 333.625]"
+		"position" "[4908.35 -2336.36 328.762]"
+		"look" "[4880.24 -2085.75 242.913]"
 	}
 	camera
 	{

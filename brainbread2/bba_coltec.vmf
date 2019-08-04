@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7538"
-	"mapversion" "1001"
+	"mapversion" "1002"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -26,7 +26,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "1001"
+	"mapversion" "1002"
 	"classname" "worldspawn"
 	"arena_reinforcements" "16"
 	"arena_respawntime" "20"
@@ -112505,8 +112505,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-2887.2 -295.278 117.778]"
-		"look" "[-3286.48 -130.01 64.7193]"
+		"position" "[-1624.45 -166.059 283.595]"
+		"look" "[-2046.05 -186.048 176.794]"
 	}
 }
 cordon
