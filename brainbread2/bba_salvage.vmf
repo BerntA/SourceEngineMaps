@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "7538"
-	"mapversion" "1144"
+	"editorbuild" "8357"
+	"mapversion" "1149"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "1144"
+	"mapversion" "1149"
 	"classname" "worldspawn"
 	"arena_reinforcements" "14"
 	"arena_respawntime" "15"
@@ -71661,7 +71661,7 @@ entity
 	"angles" "0 0 0"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"origin" "-669 1256 35"
+	"origin" "-668 1256 29"
 	"spawnflags" "0"
 	editor
 	{
@@ -72343,7 +72343,7 @@ entity
 	"angles" "-3.4808 24.5111 -0.3663"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"origin" "-838 1398 45"
+	"origin" "-839 1399 40"
 	"spawnflags" "0"
 	editor
 	{
@@ -88418,6 +88418,7 @@ entity
 		"OnTrigger" "johnson_retreat_event,Disable,,0,-1"
 		"OnTrigger" "retreat_tele_point,Teleport,,0,-1"
 		"OnTrigger" "retreat_branch_1,SetValue,1,0,-1"
+		"OnTrigger" "block_nav,BlockNav,,0.5,-1"
 	}
 	"origin" "-1168.05 -255 104.127"
 	editor
@@ -88954,6 +88955,7 @@ entity
 		"OnTrigger" "johnson_retreat_event,Enable,,0,-1"
 		"OnTrigger" "retreat_branch_1,SetValue,0,1.5,-1"
 		"OnTrigger" "bandit_boss,LeaveHideout,,1,-1"
+		"OnTrigger" "block_nav,UnblockNav,,0,-1"
 	}
 	"origin" "-1148 -246 107.934"
 	editor
@@ -89158,6 +89160,7 @@ entity
 		"OnTrigger" "johnson_retreat_event,Enable,,0,-1"
 		"OnTrigger" "retreat_trigger_container,Disable,,0,-1"
 		"OnTrigger" "retreat_trigger_player_telep,Disable,,0,-1"
+		"OnTrigger" "block_nav,UnblockNav,,0,-1"
 	}
 	"origin" "-1192.39 -248 110.713"
 	editor
@@ -89297,7 +89300,7 @@ entity
 	"angles" "0 20 0"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"origin" "-671 1308 35"
+	"origin" "-667 1308 29"
 	"spawnflags" "0"
 	editor
 	{
@@ -113434,13 +113437,123 @@ entity
 		"logicalpos" "[0 12500]"
 	}
 }
+entity
+{
+	"id" "108476"
+	"classname" "weapon_deagle"
+	"AmmoCount" "-1"
+	"angles" "0 121.5 90"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"origin" "-274.01 971 40"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "108514"
+	"classname" "func_nav_blocker"
+	"angles" "0 0 0"
+	"origin" "-1045 -331 120"
+	"StartDisabled" "0"
+	"targetname" "block_nav"
+	"teamToBlock" "0"
+	solid
+	{
+		"id" "108512"
+		side
+		{
+			"id" "16729"
+			"plane" "(-1304 -269 240) (-786 -269 240) (-786 -393 240)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16728"
+			"plane" "(-1304 -393 1.90735e-005) (-786 -393 1.90735e-005) (-786 -269 1.90735e-005)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16727"
+			"plane" "(-1304 -269 240) (-1304 -393 240) (-1304 -393 1.90735e-005)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16726"
+			"plane" "(-786 -269 1.90735e-005) (-786 -393 1.90735e-005) (-786 -393 240)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16725"
+			"plane" "(-786 -269 240) (-1304 -269 240) (-1304 -269 1.90735e-005)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16724"
+			"plane" "(-786 -393 1.90735e-005) (-1304 -393 1.90735e-005) (-1304 -393 240)"
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-780.892 1181.62 118.908]"
-		"look" "[-771.847 1191.53 111.655]"
+		"position" "[-1177.36 -229.537 125.021]"
+		"look" "[-1170.39 -239.407 115.715]"
 	}
 }
 cordon
