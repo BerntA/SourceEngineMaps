@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8357"
-	"mapversion" "23"
+	"mapversion" "24"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "23"
+	"mapversion" "24"
 	"classname" "worldspawn"
 	"coldworld" "1"
 	"comment" "Decompiled by BSPSource v1.3.24 from bbc_farm"
@@ -67885,6 +67885,7 @@ entity
 	"id" "294132"
 	"classname" "prop_dynamic"
 	"angles" "0 150 0"
+	"DisableBoneFollowers" "1"
 	"disableshadows" "1"
 	"ExplodeDamage" "0"
 	"ExplodeRadius" "0"
@@ -165866,8 +165867,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[270.89 -336.813 115.262]"
-		"look" "[441.194 -133.876 87.4175]"
+		"position" "[5292.09 6225.9 1935.13]"
+		"look" "[5546.75 6298.92 1907.28]"
 	}
 	camera
 	{
