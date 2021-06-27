@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "6411"
-	"mapversion" "272"
+	"editorbuild" "8357"
+	"mapversion" "273"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -26,7 +26,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "272"
+	"mapversion" "273"
 	"classname" "worldspawn"
 	"arena_reinforcements" "25"
 	"arena_respawntime" "40"
@@ -795,8 +795,8 @@ world
 			"id" "6301"
 			"plane" "(-2454 -478 64) (-2256 -478 64) (-2256 -653 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -871,8 +871,8 @@ world
 			"id" "6313"
 			"plane" "(-2564 -663 64) (-2146 -663 64) (-2146 -838 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -947,8 +947,8 @@ world
 			"id" "6319"
 			"plane" "(-2256 -653 64) (-2246 -663 64) (-2464 -663 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -13662,8 +13662,8 @@ world
 			"id" "7336"
 			"plane" "(-2236 -478 64) (-2474 -478 64) (-2706 -421 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -13822,8 +13822,8 @@ world
 			"id" "7342"
 			"plane" "(-2917 -309 64) (-1793 -309 64) (-2004 -421 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -13982,8 +13982,8 @@ world
 			"id" "7348"
 			"plane" "(-1793 -309 64) (-2917 -309 64) (-3096 -149 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -14142,8 +14142,8 @@ world
 			"id" "7354"
 			"plane" "(-3232 48 64) (-1478 48 64) (-1614 -149 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -14302,8 +14302,8 @@ world
 			"id" "7360"
 			"plane" "(-1478 48 64) (-3232 48 64) (-3316 273 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -14462,8 +14462,8 @@ world
 			"id" "7366"
 			"plane" "(-3316 273 64) (-3345 512 64) (-1394 512 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -14622,8 +14622,8 @@ world
 			"id" "7372"
 			"plane" "(-3345 512 64) (-3316 751 64) (-1394 751 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -14782,8 +14782,8 @@ world
 			"id" "7378"
 			"plane" "(-3232 976 64) (-1478 976 64) (-1394 751 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -14942,8 +14942,8 @@ world
 			"id" "7384"
 			"plane" "(-1478 976 64) (-3232 976 64) (-3096 1173 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -15102,8 +15102,8 @@ world
 			"id" "7390"
 			"plane" "(-1793 1333 64) (-2917 1333 64) (-2706 1445 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -15262,8 +15262,8 @@ world
 			"id" "7396"
 			"plane" "(-2917 1333 64) (-1793 1333 64) (-1614 1173 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -15422,8 +15422,8 @@ world
 			"id" "7402"
 			"plane" "(-2706 1445 64) (-2474 1502 64) (-2236 1502 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -17320,8 +17320,8 @@ world
 			"id" "9856"
 			"plane" "(-2146 1687 64) (-2564 1687 64) (-2564 1862 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -18068,8 +18068,8 @@ world
 			"id" "9914"
 			"plane" "(-2256 1502 64) (-2454 1502 64) (-2454 1677 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -18145,8 +18145,8 @@ world
 			"id" "9920"
 			"plane" "(-2454 1677 64) (-2464 1687 64) (-2246 1687 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -26681,8 +26681,8 @@ world
 			"id" "12554"
 			"plane" "(-1209 721 64) (-1034 721 64) (-1034 303 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -27429,8 +27429,8 @@ world
 			"id" "12612"
 			"plane" "(-1394 611 64) (-1219 611 64) (-1219 413 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -27506,8 +27506,8 @@ world
 			"id" "12618"
 			"plane" "(-1209 403 64) (-1219 413 64) (-1219 611 64)"
 			"material" "HAZARD24/NATURE/BLEND_DIRT01_SAND01"
-			"uaxis" "[1 0 0 1608.57] 0.35"
-			"vaxis" "[0 -1 0 -591.714] 0.35"
+			"uaxis" "[1 0 0 72.5699] 0.35"
+			"vaxis" "[0 -1 0 -79.714] 0.35"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -32209,7 +32209,7 @@ entity
 	"StartEnabled" "1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -32375,7 +32375,7 @@ entity
 	"StartEnabled" "1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -32390,7 +32390,7 @@ entity
 	"StartEnabled" "1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -32405,7 +32405,7 @@ entity
 	"StartEnabled" "1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -32420,7 +32420,7 @@ entity
 	"StartEnabled" "1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -32435,7 +32435,7 @@ entity
 	"StartEnabled" "1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -32450,7 +32450,7 @@ entity
 	"StartEnabled" "1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -32465,7 +32465,7 @@ entity
 	"StartEnabled" "1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -32480,7 +32480,7 @@ entity
 	"StartEnabled" "1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -32495,7 +32495,7 @@ entity
 	"StartEnabled" "1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -32510,7 +32510,7 @@ entity
 	"StartEnabled" "1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -32525,7 +32525,7 @@ entity
 	"StartEnabled" "1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -32540,7 +32540,7 @@ entity
 	"StartEnabled" "1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -32555,7 +32555,7 @@ entity
 	"StartEnabled" "1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -32570,7 +32570,7 @@ entity
 	"StartEnabled" "1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -32585,7 +32585,7 @@ entity
 	"StartEnabled" "1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -32600,7 +32600,7 @@ entity
 	"StartEnabled" "1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -32691,121 +32691,12 @@ entity
 }
 entity
 {
-	"id" "9090"
-	"classname" "info_node"
-	"nodeid" "4"
-	"origin" "-1699 12 71"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1000 10000]"
-	}
-}
-entity
-{
-	"id" "9094"
-	"classname" "info_node"
-	"nodeid" "5"
-	"origin" "-1606 862 71"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1000 10000]"
-	}
-}
-entity
-{
-	"id" "9098"
-	"classname" "info_node"
-	"nodeid" "6"
-	"origin" "-2190 792 71"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1000 10000]"
-	}
-}
-entity
-{
-	"id" "9102"
-	"classname" "info_node"
-	"nodeid" "7"
-	"origin" "-2091 164 71"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1000 10000]"
-	}
-}
-entity
-{
-	"id" "9106"
-	"classname" "info_node"
-	"nodeid" "8"
-	"origin" "-2642 1004 71"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1000 10000]"
-	}
-}
-entity
-{
-	"id" "9110"
-	"classname" "info_node"
-	"nodeid" "9"
-	"origin" "-2499 9 71"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1000 10000]"
-	}
-}
-entity
-{
-	"id" "9114"
-	"classname" "info_node"
-	"nodeid" "10"
-	"origin" "-2934 143 71"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1000 10000]"
-	}
-}
-entity
-{
-	"id" "9118"
-	"classname" "info_node"
-	"nodeid" "11"
-	"origin" "-3073 827 71"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1000 10000]"
-	}
-}
-entity
-{
 	"id" "25917"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 90 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "14"
 	"MinRespawnDelay" "6"
 	"npc_classname" "npc_bandit"
@@ -32859,6 +32750,8 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/bb2_props/barricade/sandbagwall_corner.mdl"
@@ -32886,6 +32779,8 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/bb2_props/barricade/sandbagwall_corner.mdl"
@@ -32913,6 +32808,8 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/bb2_props/barricade/sandbagwall_corner.mdl"
@@ -32940,6 +32837,8 @@ entity
 	"fademindist" "-1"
 	"fadescale" "1"
 	"ignorenormals" "0"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
 	"model" "models/bb2_props/barricade/sandbags_curved01.mdl"
@@ -32961,6 +32860,7 @@ entity
 	"classname" "game_manager"
 	"Rounds" "4"
 	"targetname" "manager"
+	"Tries" "1"
 	connections
 	{
 		"OnRound1" "round_1_obj,Start,,1,-1"
@@ -33003,6 +32903,9 @@ entity
 	"classname" "zombie_volume"
 	"angles" "0 0 0"
 	"AutoSpawn" "1"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
+	"MaximumDistance" "5200"
 	"origin" "-2367 1086.5 151.5"
 	"RandomSpawnChance" "20"
 	"spawnflags" "0"
@@ -33099,6 +33002,9 @@ entity
 	"classname" "zombie_volume"
 	"angles" "0 0 0"
 	"AutoSpawn" "1"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
+	"MaximumDistance" "5200"
 	"origin" "-2349 -44.5 151.5"
 	"RandomSpawnChance" "20"
 	"spawnflags" "0"
@@ -33280,6 +33186,8 @@ entity
 	"angles" "1.11823 303.984 -1.65829"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/military/boxes/usmc_closed.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -33299,6 +33207,8 @@ entity
 	"angles" "4.20703 6.3429 2.20029"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/military/boxes/usmc_closed.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -33318,6 +33228,8 @@ entity
 	"angles" "1.0863 356.308 0.398702"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/military/boxes/usmc_opened02.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -33548,7 +33460,10 @@ entity
 {
 	"id" "27009"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 90 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "14"
 	"MinRespawnDelay" "6"
 	"npc_classname" "npc_bandit"
@@ -33572,7 +33487,10 @@ entity
 {
 	"id" "27012"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 90 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "14"
 	"MinRespawnDelay" "6"
 	"npc_classname" "npc_bandit"
@@ -33596,7 +33514,10 @@ entity
 {
 	"id" "27030"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 90 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "14"
 	"MinRespawnDelay" "6"
 	"npc_classname" "npc_bandit"
@@ -33668,7 +33589,10 @@ entity
 {
 	"id" "27105"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 0 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "90"
 	"MinRespawnDelay" "15"
 	"npc_classname" "npc_military_static"
@@ -33688,7 +33612,10 @@ entity
 {
 	"id" "27141"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 0 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "80"
 	"MinRespawnDelay" "20"
 	"npc_classname" "npc_military_static"
@@ -33708,7 +33635,10 @@ entity
 {
 	"id" "27147"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 222 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "80"
 	"MinRespawnDelay" "22"
 	"npc_classname" "npc_military_static"
@@ -33945,6 +33875,9 @@ entity
 	"classname" "zombie_volume"
 	"angles" "0 0 0"
 	"AutoSpawn" "1"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
+	"MaximumDistance" "5200"
 	"origin" "-2349 -44.5 151.5"
 	"RandomSpawnChance" "20"
 	"spawnflags" "0"
@@ -34042,6 +33975,9 @@ entity
 	"classname" "zombie_volume"
 	"angles" "0 0 0"
 	"AutoSpawn" "1"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
+	"MaximumDistance" "5200"
 	"origin" "-2367 1086.5 151.5"
 	"RandomSpawnChance" "20"
 	"spawnflags" "0"
@@ -34152,49 +34088,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
-	}
-}
-entity
-{
-	"id" "28449"
-	"classname" "info_node"
-	"nodeid" "14"
-	"origin" "-1787.49 532.805 71"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
-	"id" "28451"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "15"
-	"origin" "-2229 570 71"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 500]"
-	}
-}
-entity
-{
-	"id" "28453"
-	"classname" "info_node"
-	"nodeid" "16"
-	"origin" "-2868.8 528.111 75.0019"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
 	}
 }
 entity
@@ -36003,54 +35896,12 @@ entity
 }
 entity
 {
-	"id" "38762"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "18"
-	"origin" "-2344 -172.545 74"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -3768]"
-	}
-}
-entity
-{
-	"id" "38764"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "19"
-	"origin" "-2361.63 -531.644 70.4845"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -3268]"
-	}
-}
-entity
-{
-	"id" "38766"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "20"
-	"origin" "-2352.43 -641.557 70.4845"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -2768]"
-	}
-}
-entity
-{
 	"id" "39927"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 270 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "17"
 	"MinRespawnDelay" "5"
 	"npc_classname" "npc_bandit"
@@ -36074,7 +35925,10 @@ entity
 {
 	"id" "39936"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 270 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "17"
 	"MinRespawnDelay" "5"
 	"npc_classname" "npc_bandit"
@@ -36098,7 +35952,10 @@ entity
 {
 	"id" "39945"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 270 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "17"
 	"MinRespawnDelay" "5"
 	"npc_classname" "npc_bandit"
@@ -36122,7 +35979,10 @@ entity
 {
 	"id" "39948"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 270 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "17"
 	"MinRespawnDelay" "5"
 	"npc_classname" "npc_bandit"
@@ -36166,56 +36026,13 @@ entity
 }
 entity
 {
-	"id" "40117"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "21"
-	"origin" "-2257.3 1094.6 69"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2000 15500]"
-	}
-}
-entity
-{
-	"id" "40119"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "22"
-	"origin" "-2314.83 1336.03 68.5586"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2000 16000]"
-	}
-}
-entity
-{
-	"id" "40121"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "23"
-	"origin" "-2356 1647.38 68.5586"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2000 -16268]"
-	}
-}
-entity
-{
 	"id" "40136"
 	"classname" "prop_static"
 	"angles" "0.700224 278.031 1.31283"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/military/boxes/usmc_closed.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36255,6 +36072,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36277,6 +36096,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36299,6 +36120,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36321,6 +36144,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36343,6 +36168,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36365,6 +36192,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36387,6 +36216,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36409,6 +36240,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36431,6 +36264,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36453,6 +36288,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36475,6 +36312,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36497,6 +36336,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36519,6 +36360,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36541,6 +36384,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36563,6 +36408,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36585,6 +36432,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36607,6 +36456,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36629,6 +36480,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36651,6 +36504,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36673,6 +36528,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36695,6 +36552,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36717,6 +36576,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36739,6 +36600,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36761,6 +36624,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36783,6 +36648,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/ivy_01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36805,6 +36672,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36827,6 +36696,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36849,6 +36720,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36871,6 +36744,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36893,6 +36768,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36915,6 +36792,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36937,6 +36816,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36959,6 +36840,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -36981,6 +36864,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37003,6 +36888,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37025,6 +36912,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37047,6 +36936,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37069,6 +36960,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37091,6 +36984,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37113,6 +37008,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37135,6 +37032,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37157,6 +37056,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37179,6 +37080,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37201,6 +37104,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37223,6 +37128,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37245,6 +37152,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37267,6 +37176,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37289,6 +37200,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37311,6 +37224,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37333,6 +37248,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37355,6 +37272,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37377,6 +37296,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37399,6 +37320,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37421,6 +37344,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37443,6 +37368,8 @@ entity
 	"disablevertexlighting" "1"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_foliage/cedar_large01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37577,6 +37504,8 @@ entity
 	"angles" "0 272.5 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props/de_tides/planter.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37596,6 +37525,8 @@ entity
 	"angles" "0 81.5 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props/de_tides/planter.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37615,6 +37546,8 @@ entity
 	"angles" "0 90 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props/de_inferno/monument.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37634,6 +37567,8 @@ entity
 	"angles" "0 90 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props/de_inferno/monument.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -37774,36 +37709,6 @@ entity
 }
 entity
 {
-	"id" "47289"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "24"
-	"origin" "-1182 508 68.5586"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2000 -16268]"
-	}
-}
-entity
-{
-	"id" "47297"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "25"
-	"origin" "-1454 510 68.5586"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2000 -16268]"
-	}
-}
-entity
-{
 	"id" "47321"
 	"classname" "aiscripted_schedule"
 	"forcestate" "3"
@@ -37828,7 +37733,10 @@ entity
 {
 	"id" "47324"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 180 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "12"
 	"MinRespawnDelay" "3"
 	"npc_classname" "npc_bandit"
@@ -37852,7 +37760,10 @@ entity
 {
 	"id" "47333"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 180 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "12"
 	"MinRespawnDelay" "3"
 	"npc_classname" "npc_bandit"
@@ -37876,7 +37787,10 @@ entity
 {
 	"id" "47336"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 180 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "12"
 	"MinRespawnDelay" "3"
 	"npc_classname" "npc_bandit"
@@ -38234,7 +38148,10 @@ entity
 {
 	"id" "49320"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 180 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "12"
 	"MinRespawnDelay" "3"
 	"npc_classname" "npc_bandit"
@@ -38260,6 +38177,9 @@ entity
 	"classname" "zombie_volume"
 	"angles" "0 0 0"
 	"AutoSpawn" "1"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
+	"MaximumDistance" "5200"
 	"origin" "-2349 -44.5 151.5"
 	"RandomSpawnChance" "65"
 	"spawnflags" "0"
@@ -38357,6 +38277,9 @@ entity
 	"classname" "zombie_volume"
 	"angles" "0 0 0"
 	"AutoSpawn" "1"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
+	"MaximumDistance" "5200"
 	"origin" "-2367 1086.5 151.5"
 	"RandomSpawnChance" "65"
 	"spawnflags" "0"
@@ -38472,6 +38395,7 @@ entity
 	"MaxRespawnDelay" "70"
 	"MinRespawnDelay" "15"
 	"origin" "-1617.04 103.99 76.78"
+	"ShouldRefresh" "1"
 	"WeaponType" "2"
 	editor
 	{
@@ -38489,6 +38413,7 @@ entity
 	"MaxRespawnDelay" "70"
 	"MinRespawnDelay" "15"
 	"origin" "-1885.57 -218.1 85.36"
+	"ShouldRefresh" "1"
 	"WeaponType" "2"
 	editor
 	{
@@ -38506,6 +38431,7 @@ entity
 	"MaxRespawnDelay" "70"
 	"MinRespawnDelay" "15"
 	"origin" "-2887.59 -155.6 77.77"
+	"ShouldRefresh" "1"
 	"WeaponType" "2"
 	editor
 	{
@@ -38523,6 +38449,7 @@ entity
 	"MaxRespawnDelay" "70"
 	"MinRespawnDelay" "15"
 	"origin" "-2815.9 1172.58 75.48"
+	"ShouldRefresh" "1"
 	"WeaponType" "2"
 	editor
 	{
@@ -38539,6 +38466,8 @@ entity
 	"angles" "0.700224 85.531 1.31283"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/military/boxes/usmc_closed.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -38638,189 +38567,12 @@ entity
 }
 entity
 {
-	"id" "50830"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "26"
-	"origin" "-3336.82 518.867 218"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 500]"
-	}
-}
-entity
-{
-	"id" "50832"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "27"
-	"origin" "-3455.29 515.209 218"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "50834"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "28"
-	"origin" "-3597.94 513.136 218"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1500]"
-	}
-}
-entity
-{
-	"id" "50836"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "29"
-	"origin" "-3710.4 511.875 218"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 2000]"
-	}
-}
-entity
-{
-	"id" "50838"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "30"
-	"origin" "-3811.06 514.593 197.675"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 2500]"
-	}
-}
-entity
-{
-	"id" "50840"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "31"
-	"origin" "-3903.39 509.436 145.356"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 3000]"
-	}
-}
-entity
-{
-	"id" "50842"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "32"
-	"origin" "-4039 510.093 68.5083"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 3500]"
-	}
-}
-entity
-{
-	"id" "50844"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "33"
-	"origin" "-3357.04 434.959 218"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 4000]"
-	}
-}
-entity
-{
-	"id" "50846"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "34"
-	"origin" "-3364.28 596.453 218"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 4500]"
-	}
-}
-entity
-{
-	"id" "50848"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "35"
-	"origin" "-3173.29 290.401 73.4821"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 5000]"
-	}
-}
-entity
-{
-	"id" "50850"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "36"
-	"origin" "-3152.52 502.949 69.1477"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 5500]"
-	}
-}
-entity
-{
-	"id" "50852"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "37"
-	"origin" "-3162.52 685.99 69.5657"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 6000]"
-	}
-}
-entity
-{
 	"id" "50992"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 180 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "20"
 	"MinRespawnDelay" "5"
 	"npc_classname" "npc_bandit"
@@ -38844,7 +38596,10 @@ entity
 {
 	"id" "51010"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 180 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "20"
 	"MinRespawnDelay" "5"
 	"npc_classname" "npc_bandit"
@@ -38868,7 +38623,10 @@ entity
 {
 	"id" "51042"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 90 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "15"
 	"MinRespawnDelay" "5"
 	"npc_classname" "npc_bandit"
@@ -38892,7 +38650,10 @@ entity
 {
 	"id" "51057"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 90 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "15"
 	"MinRespawnDelay" "5"
 	"npc_classname" "npc_bandit"
@@ -38916,7 +38677,10 @@ entity
 {
 	"id" "51111"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 270 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "15"
 	"MinRespawnDelay" "5"
 	"npc_classname" "npc_bandit"
@@ -38940,7 +38704,10 @@ entity
 {
 	"id" "51120"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 270 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "15"
 	"MinRespawnDelay" "5"
 	"npc_classname" "npc_bandit"
@@ -39010,7 +38777,10 @@ entity
 {
 	"id" "51316"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 0 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "10"
 	"MinRespawnDelay" "5"
 	"npc_classname" "npc_bandit"
@@ -39034,7 +38804,10 @@ entity
 {
 	"id" "51385"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 0 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "10"
 	"MinRespawnDelay" "5"
 	"npc_classname" "npc_bandit"
@@ -39058,7 +38831,10 @@ entity
 {
 	"id" "51391"
 	"classname" "npc_auto_spawner"
+	"allow_weapondrop" "1"
 	"angles" "0 0 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "10"
 	"MinRespawnDelay" "5"
 	"npc_classname" "npc_bandit"
@@ -39076,69 +38852,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[1500 -12268]"
-	}
-}
-entity
-{
-	"id" "51451"
-	"classname" "info_node_air"
-	"angles" "0 0 0"
-	"nodeheight" "95"
-	"nodeid" "38"
-	"origin" "-3190 522 157"
-	editor
-	{
-		"color" "232 171 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 7000]"
-	}
-}
-entity
-{
-	"id" "51469"
-	"classname" "info_node_hint"
-	"angles" "0 0 0"
-	"hintactivity" "ACT_JUMP"
-	"hinttype" "901"
-	"IgnoreFacing" "2"
-	"MaximumState" "3"
-	"MinimumState" "1"
-	"nodeFOV" "360"
-	"nodeid" "39"
-	"spawnflags" "0"
-	"targetname" "jump_start"
-	"TargetNode" "40"
-	"origin" "-3322 558 220"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 7500]"
-	}
-}
-entity
-{
-	"id" "51485"
-	"classname" "info_node_hint"
-	"angles" "0 0 0"
-	"hinttype" "901"
-	"IgnoreFacing" "2"
-	"MaximumState" "3"
-	"MinimumState" "1"
-	"nodeFOV" "360"
-	"nodeid" "40"
-	"spawnflags" "65536"
-	"targetname" "jump_land"
-	"TargetNode" "-1"
-	"origin" "-3145 547.114 114"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 8000]"
 	}
 }
 entity
@@ -39163,6 +38876,8 @@ entity
 	"angles" "0.700224 10.031 1.31283"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/military/boxes/usmc_closed.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -39250,6 +38965,8 @@ entity
 	"angles" "0.700224 336.531 1.31283"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/military/boxes/usmc_closed.mdl"
 	"skin" "0"
 	"solid" "6"

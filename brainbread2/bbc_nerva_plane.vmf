@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8357"
-	"mapversion" "159"
+	"mapversion" "160"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "159"
+	"mapversion" "160"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -18228,7 +18228,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-6336.13 383.289 -30.0166]"
+				"startposition" "[-6336.13 383.293 -30.017]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "1"
@@ -18416,7 +18416,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-6336.13 639.291 -30.0156]"
+				"startposition" "[-6336.13 639.291 -30.0176]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "1"
@@ -18510,7 +18510,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-6336.13 383.291 -30.0195]"
+				"startposition" "[-6336.14 383.291 -30.0195]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "1"
@@ -19754,7 +19754,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-7438.07 862.508 207]"
+				"startposition" "[-7438.07 862.512 207]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "1"
@@ -20141,7 +20141,7 @@ world
 			dispinfo
 			{
 				"power" "3"
-				"startposition" "[-7438.07 862.508 -26]"
+				"startposition" "[-7438.07 862.504 -26]"
 				"flags" "0"
 				"elevation" "0"
 				"subdiv" "1"
@@ -81758,150 +81758,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
-	}
-}
-entity
-{
-	"id" "28353"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "2"
-	"spawnflags" "0"
-	"origin" "-7348.98 353.102 1.93464"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "28355"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "3"
-	"spawnflags" "0"
-	"origin" "-7292.92 346.005 189.493"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "28357"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "4"
-	"spawnflags" "0"
-	"origin" "-7387.81 250.363 1.23978e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "28359"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "5"
-	"spawnflags" "0"
-	"origin" "-7446.95 121.4 5.86339"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "28361"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "6"
-	"spawnflags" "0"
-	"origin" "-7455.2 380.679 10.36"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "28363"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "7"
-	"spawnflags" "0"
-	"origin" "-7527.42 250.348 1.70802"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "28365"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "8"
-	"spawnflags" "0"
-	"origin" "-7570.32 126.608 11.7182"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "28367"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "9"
-	"spawnflags" "0"
-	"origin" "-7608.16 295.589 9.57844"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
-	}
-}
-entity
-{
-	"id" "28369"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "10"
-	"spawnflags" "0"
-	"origin" "-7581.47 429.899 27.4151"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1000]"
 	}
 }
 cameras

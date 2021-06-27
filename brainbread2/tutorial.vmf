@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "7538"
-	"mapversion" "609"
+	"editorbuild" "8357"
+	"mapversion" "610"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "609"
+	"mapversion" "610"
 	"classname" "worldspawn"
 	"coldworld" "1"
 	"detailmaterial" "detail/detailsprites"
@@ -30443,7 +30443,7 @@ entity
 	"targetname" "human_spawn_1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 2000]"
@@ -32258,7 +32258,7 @@ entity
 	"StartEnabled" "1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[3000 -3768]"
@@ -34128,231 +34128,6 @@ entity
 }
 entity
 {
-	"id" "12020"
-	"classname" "info_node"
-	"nodeid" "19"
-	"origin" "-1910.68 -86.5628 -83"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[4000 13500]"
-	}
-}
-entity
-{
-	"id" "12022"
-	"classname" "info_node"
-	"nodeid" "20"
-	"origin" "-1617.46 -107.905 -83"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[4000 14000]"
-	}
-}
-entity
-{
-	"id" "12024"
-	"classname" "info_node"
-	"nodeid" "21"
-	"origin" "-1771.68 -110.305 -83"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[4000 14500]"
-	}
-}
-entity
-{
-	"id" "12026"
-	"classname" "info_node"
-	"nodeid" "22"
-	"origin" "-2458.82 -116.148 -83"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[4000 15000]"
-	}
-}
-entity
-{
-	"id" "12028"
-	"classname" "info_node"
-	"nodeid" "23"
-	"origin" "-2308.12 -110.955 -83"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[4000 15500]"
-	}
-}
-entity
-{
-	"id" "12030"
-	"classname" "info_node"
-	"nodeid" "24"
-	"origin" "-2128.06 -115.303 -83"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[4000 16000]"
-	}
-}
-entity
-{
-	"id" "12032"
-	"classname" "info_node"
-	"nodeid" "25"
-	"origin" "-2025.24 -102.59 -83"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[4000 -16268]"
-	}
-}
-entity
-{
-	"id" "12034"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "26"
-	"origin" "-1950 -311 -83"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[4000 -15768]"
-	}
-}
-entity
-{
-	"id" "12036"
-	"classname" "info_node"
-	"nodeid" "27"
-	"origin" "-2085.56 -246.566 -83"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[4000 -15268]"
-	}
-}
-entity
-{
-	"id" "12038"
-	"classname" "info_node"
-	"nodeid" "28"
-	"origin" "-2257.57 -360.575 -83"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[4000 -14768]"
-	}
-}
-entity
-{
-	"id" "12040"
-	"classname" "info_node"
-	"nodeid" "29"
-	"origin" "-2021.63 136.277 -83"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[4000 -14268]"
-	}
-}
-entity
-{
-	"id" "12042"
-	"classname" "info_node"
-	"nodeid" "30"
-	"origin" "-1945.85 245.888 -83"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[4000 -13768]"
-	}
-}
-entity
-{
-	"id" "12044"
-	"classname" "info_node"
-	"nodeid" "31"
-	"origin" "-2188.97 74.596 -83"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[4000 -13268]"
-	}
-}
-entity
-{
-	"id" "12046"
-	"classname" "info_node"
-	"nodeid" "32"
-	"origin" "-2182.47 370.928 -39"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[4000 -12768]"
-	}
-}
-entity
-{
-	"id" "12048"
-	"classname" "info_node"
-	"nodeid" "33"
-	"origin" "-1923.14 364.397 5.00001"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[4000 -12268]"
-	}
-}
-entity
-{
-	"id" "12050"
-	"classname" "info_node"
-	"nodeid" "34"
-	"origin" "-1915.6 528.56 5.00001"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[4000 -11768]"
-	}
-}
-entity
-{
 	"id" "12084"
 	"classname" "prop_static"
 	"angles" "0 79.5 0"
@@ -34664,6 +34439,8 @@ entity
 	"classname" "npc_auto_spawner"
 	"allow_weapondrop" "0"
 	"angles" "0 0 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "12"
 	"MinRespawnDelay" "4"
 	"npc_classname" "npc_military"
@@ -34689,6 +34466,8 @@ entity
 	"classname" "npc_auto_spawner"
 	"allow_weapondrop" "0"
 	"angles" "0 0 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "12"
 	"MinRespawnDelay" "4"
 	"npc_classname" "npc_military"
@@ -34714,6 +34493,8 @@ entity
 	"classname" "npc_auto_spawner"
 	"allow_weapondrop" "0"
 	"angles" "0 0 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "12"
 	"MinRespawnDelay" "4"
 	"npc_classname" "npc_military"
@@ -34816,6 +34597,8 @@ entity
 	"classname" "npc_auto_spawner"
 	"allow_weapondrop" "0"
 	"angles" "0 180 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "12"
 	"MinRespawnDelay" "4"
 	"npc_classname" "npc_military"
@@ -34841,6 +34624,8 @@ entity
 	"classname" "npc_auto_spawner"
 	"allow_weapondrop" "0"
 	"angles" "0 180 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "12"
 	"MinRespawnDelay" "4"
 	"npc_classname" "npc_military"
@@ -34866,6 +34651,8 @@ entity
 	"classname" "npc_auto_spawner"
 	"allow_weapondrop" "0"
 	"angles" "0 180 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "12"
 	"MinRespawnDelay" "4"
 	"npc_classname" "npc_military"
@@ -38216,6 +38003,9 @@ entity
 	"classname" "zombie_volume"
 	"angles" "0 0 0"
 	"AutoSpawn" "1"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
+	"MaximumDistance" "5200"
 	"origin" "660 -1715 95.5"
 	"RandomSpawnChance" "40"
 	"spawnflags" "0"
@@ -39095,276 +38885,6 @@ entity
 }
 entity
 {
-	"id" "5189"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "1"
-	"origin" "1142.24 -1718.4 37"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -11768]"
-	}
-}
-entity
-{
-	"id" "5191"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "2"
-	"origin" "1036.21 -1712.02 37"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -11268]"
-	}
-}
-entity
-{
-	"id" "5193"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "3"
-	"origin" "945.03 -1717.85 37"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -10768]"
-	}
-}
-entity
-{
-	"id" "5195"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "4"
-	"origin" "858.141 -1712.38 37"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -10268]"
-	}
-}
-entity
-{
-	"id" "5197"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "5"
-	"origin" "713.649 -1717.69 37"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -9768]"
-	}
-}
-entity
-{
-	"id" "5199"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "6"
-	"origin" "620 -1669 37"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -9268]"
-	}
-}
-entity
-{
-	"id" "5201"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "7"
-	"origin" "623.323 -1842.06 37"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -8768]"
-	}
-}
-entity
-{
-	"id" "5203"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "8"
-	"origin" "646.426 -1577.68 37"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -8268]"
-	}
-}
-entity
-{
-	"id" "5205"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "9"
-	"origin" "448.676 -1710.8 37"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -7768]"
-	}
-}
-entity
-{
-	"id" "5207"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "10"
-	"origin" "293.169 -1715.27 37"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -7268]"
-	}
-}
-entity
-{
-	"id" "5209"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "11"
-	"origin" "202.798 -1714.95 37"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -6768]"
-	}
-}
-entity
-{
-	"id" "5211"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "12"
-	"origin" "95.6158 -1713.79 37"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -6268]"
-	}
-}
-entity
-{
-	"id" "5213"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "13"
-	"origin" "615.73 -1387.79 77"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -5768]"
-	}
-}
-entity
-{
-	"id" "5215"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "14"
-	"origin" "436.902 -1343.79 77"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -5268]"
-	}
-}
-entity
-{
-	"id" "5217"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "15"
-	"origin" "785.593 -1350.41 77"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -4768]"
-	}
-}
-entity
-{
-	"id" "5219"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "16"
-	"origin" "632.884 -2055.08 77"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -4268]"
-	}
-}
-entity
-{
-	"id" "5221"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "17"
-	"origin" "813.281 -2086.82 77"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -3768]"
-	}
-}
-entity
-{
-	"id" "5223"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "18"
-	"origin" "422.936 -2104.32 77"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -3268]"
-	}
-}
-entity
-{
 	"id" "5227"
 	"classname" "aiscripted_schedule"
 	"forcestate" "3"
@@ -39391,6 +38911,8 @@ entity
 	"classname" "npc_auto_spawner"
 	"allow_weapondrop" "0"
 	"angles" "0 0 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "6"
 	"MinRespawnDelay" "3"
 	"npc_classname" "npc_bandit"
@@ -39416,6 +38938,8 @@ entity
 	"classname" "npc_auto_spawner"
 	"allow_weapondrop" "0"
 	"angles" "0 0 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "8"
 	"MinRespawnDelay" "4"
 	"npc_classname" "npc_bandit"
@@ -39463,6 +38987,8 @@ entity
 	"classname" "npc_auto_spawner"
 	"allow_weapondrop" "0"
 	"angles" "0 180 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "8"
 	"MinRespawnDelay" "1"
 	"npc_classname" "npc_bandit"
@@ -39488,6 +39014,8 @@ entity
 	"classname" "npc_auto_spawner"
 	"allow_weapondrop" "0"
 	"angles" "0 180 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "7"
 	"MinRespawnDelay" "2"
 	"npc_classname" "npc_bandit"
@@ -39918,7 +39446,7 @@ entity
 	"targetname" "human_spawn_2"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[2000 5000]"
@@ -40864,6 +40392,8 @@ entity
 	"classname" "npc_auto_spawner"
 	"allow_weapondrop" "0"
 	"angles" "0 66 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "12"
 	"MinRespawnDelay" "4"
 	"npc_classname" "npc_military_static"
@@ -40885,6 +40415,8 @@ entity
 	"classname" "npc_auto_spawner"
 	"allow_weapondrop" "0"
 	"angles" "0 145 0"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
 	"MaxRespawnDelay" "12"
 	"MinRespawnDelay" "4"
 	"npc_classname" "npc_military_static"
@@ -47191,21 +46723,6 @@ entity
 }
 entity
 {
-	"id" "33571"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "35"
-	"origin" "593.691 -1715.37 36"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 -9268]"
-	}
-}
-entity
-{
 	"id" "34791"
 	"classname" "env_cubemap"
 	"sides" ""
@@ -50642,7 +50159,7 @@ entity
 	"targetname" "bot_spawn"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 1500]"
@@ -51397,6 +50914,9 @@ entity
 	"classname" "zombie_volume"
 	"angles" "0 0 0"
 	"AutoSpawn" "1"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
+	"MaximumDistance" "5200"
 	"origin" "-1974.21 153 -61"
 	"RandomSpawnChance" "20"
 	"spawnflags" "0"
@@ -51493,6 +51013,9 @@ entity
 	"classname" "zombie_volume"
 	"angles" "0 0 0"
 	"AutoSpawn" "1"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
+	"MaximumDistance" "5200"
 	"origin" "-2050.21 -256 -61"
 	"RandomSpawnChance" "20"
 	"spawnflags" "0"

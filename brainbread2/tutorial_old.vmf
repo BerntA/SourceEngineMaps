@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "6411"
-	"mapversion" "1021"
+	"editorbuild" "8357"
+	"mapversion" "1022"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "1021"
+	"mapversion" "1022"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -21610,7 +21610,7 @@ entity
 	"StartEnabled" "1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -24334,6 +24334,8 @@ entity
 	"angles" "0 0 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_wasteland/prison_lamp001a.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -24398,6 +24400,8 @@ entity
 	"angles" "0 0 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/props_exteriors/door_metal01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -24417,6 +24421,8 @@ entity
 	"angles" "0 270 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/barricade/sandbags_straight01.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -24436,6 +24442,8 @@ entity
 	"angles" "0 90 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/detail/misc_cloth_corner.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -24455,6 +24463,8 @@ entity
 	"angles" "0 277.5 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/detail/paperscrap_pile.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -24474,6 +24484,8 @@ entity
 	"angles" "0 315 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/detail/paperscrap_pile.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -24493,6 +24505,8 @@ entity
 	"angles" "0 180 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/detail/paperscrap_wallpile.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -24512,6 +24526,8 @@ entity
 	"angles" "0 227.5 90"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/barrels/common_damaged.mdl"
 	"skin" "6"
 	"solid" "6"
@@ -24531,6 +24547,8 @@ entity
 	"angles" "-15.306 229.853 72.6222"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/barrels/common_lid.mdl"
 	"skin" "6"
 	"solid" "6"
@@ -24806,7 +24824,7 @@ entity
 			"id" "940"
 			"plane" "(52 177 112) (108 177 112) (104 177 108)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 432] 0.25"
+			"uaxis" "[-1 0 0 176] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -24817,7 +24835,7 @@ entity
 			"id" "939"
 			"plane" "(108 183 112) (52 183 112) (56 183 108)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 432] 0.25"
+			"uaxis" "[-1 0 0 176] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -24893,7 +24911,7 @@ entity
 			"id" "945"
 			"plane" "(104 177 0) (104 177 108) (108 177 112)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 432] 0.25"
+			"uaxis" "[-1 0 0 176] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -24904,7 +24922,7 @@ entity
 			"id" "944"
 			"plane" "(108 183 0) (108 183 112) (104 183 108)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 432] 0.25"
+			"uaxis" "[-1 0 0 176] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -24969,7 +24987,7 @@ entity
 			"id" "951"
 			"plane" "(52 177 0) (52 177 112) (56 177 108)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 432] 0.25"
+			"uaxis" "[-1 0 0 176] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -24980,7 +24998,7 @@ entity
 			"id" "950"
 			"plane" "(56 183 0) (56 183 108) (52 183 112)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 432] 0.25"
+			"uaxis" "[-1 0 0 176] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -26328,6 +26346,7 @@ entity
 	"MinAnimTime" "5"
 	"mindxlevel" "0"
 	"model" "models/shared_props/turtle.mdl"
+	"modelscale" "1.0"
 	"parentname" "zomzom"
 	"PerformanceMode" "0"
 	"pressuredelay" "0"
@@ -26519,6 +26538,8 @@ entity
 	"angles" "0 86 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/military/boxes/usmc_closed.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -26538,6 +26559,8 @@ entity
 	"angles" "0 0 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/military/boxes/usmc_closed.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -26557,6 +26580,8 @@ entity
 	"angles" "0 6 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/military/boxes/usmc_closed.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -26576,6 +26601,8 @@ entity
 	"angles" "0 0 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/military/boxes/usmc_closed.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -26595,6 +26622,8 @@ entity
 	"angles" "0 89 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/military/boxes/usmc_closed.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -26614,6 +26643,8 @@ entity
 	"angles" "0 256.5 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/military/boxes/usmc_closed.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -26633,6 +26664,8 @@ entity
 	"angles" "0 351.5 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/military/boxes/usmc_closed.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -26652,6 +26685,8 @@ entity
 	"angles" "0 34 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/military/boxes/usmc_closed.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -26671,6 +26706,8 @@ entity
 	"angles" "0 0 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/military/boxes/usmc_closed.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -26770,6 +26807,7 @@ entity
 	"hardware" "1"
 	"health" "0"
 	"model" "models/bb2_props/doors/door02b.mdl"
+	"modelscale" "1.0"
 	"opendir" "0"
 	"returndelay" "-1"
 	"skin" "0"
@@ -26812,6 +26850,7 @@ entity
 	"hardware" "1"
 	"health" "0"
 	"model" "models/bb2_props/doors/door02b.mdl"
+	"modelscale" "1.0"
 	"opendir" "0"
 	"returndelay" "-1"
 	"skin" "0"
@@ -27114,6 +27153,7 @@ entity
 	"hardware" "1"
 	"health" "0"
 	"model" "models/bb2_props/doors/door02b.mdl"
+	"modelscale" "1.0"
 	"opendir" "0"
 	"returndelay" "-1"
 	"skin" "0"
@@ -33028,7 +33068,7 @@ entity
 			"id" "3429"
 			"plane" "(-664 -255 184) (-608 -255 184) (-612 -255 180)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -384] 0.25"
+			"uaxis" "[-1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 288] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -33039,7 +33079,7 @@ entity
 			"id" "3428"
 			"plane" "(-608 -249 184) (-664 -249 184) (-660 -249 180)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -384] 0.25"
+			"uaxis" "[-1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 288] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -33115,7 +33155,7 @@ entity
 			"id" "3434"
 			"plane" "(-612 -255 72) (-612 -255 180) (-608 -255 184)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -384] 0.25"
+			"uaxis" "[-1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 288] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -33126,7 +33166,7 @@ entity
 			"id" "3433"
 			"plane" "(-608 -249 72) (-608 -249 184) (-612 -249 180)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -384] 0.25"
+			"uaxis" "[-1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 288] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -33191,7 +33231,7 @@ entity
 			"id" "3440"
 			"plane" "(-664 -255 72) (-664 -255 184) (-660 -255 180)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -384] 0.25"
+			"uaxis" "[-1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 288] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -33202,7 +33242,7 @@ entity
 			"id" "3439"
 			"plane" "(-660 -249 72) (-660 -249 180) (-664 -249 184)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -384] 0.25"
+			"uaxis" "[-1 0 0 -128] 0.25"
 			"vaxis" "[0 0 -1 288] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -36559,7 +36599,7 @@ entity
 	"targetname" "z1"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 4000]"
@@ -36853,7 +36893,7 @@ entity
 			"id" "4397"
 			"plane" "(-1684 -1025 184) (-1740 -1025 184) (-1736 -1025 180)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 304] 0.25"
+			"uaxis" "[1 0 0 48] 0.25"
 			"vaxis" "[0 0 -1 288] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -36864,7 +36904,7 @@ entity
 			"id" "4396"
 			"plane" "(-1736 -1031 180) (-1740 -1031 184) (-1684 -1031 184)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 304] 0.25"
+			"uaxis" "[1 0 0 48] 0.25"
 			"vaxis" "[0 0 -1 288] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -36940,7 +36980,7 @@ entity
 			"id" "4402"
 			"plane" "(-1740 -1025 72) (-1736 -1025 72) (-1736 -1025 180)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 304] 0.25"
+			"uaxis" "[1 0 0 48] 0.25"
 			"vaxis" "[0 0 -1 288] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -36951,7 +36991,7 @@ entity
 			"id" "4401"
 			"plane" "(-1740 -1031 184) (-1736 -1031 180) (-1736 -1031 72)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 304] 0.25"
+			"uaxis" "[1 0 0 48] 0.25"
 			"vaxis" "[0 0 -1 288] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -37016,7 +37056,7 @@ entity
 			"id" "4408"
 			"plane" "(-1684 -1025 184) (-1688 -1025 180) (-1688 -1025 72)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 304] 0.25"
+			"uaxis" "[1 0 0 48] 0.25"
 			"vaxis" "[0 0 -1 288] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -37027,7 +37067,7 @@ entity
 			"id" "4407"
 			"plane" "(-1684 -1031 72) (-1688 -1031 72) (-1688 -1031 180)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 304] 0.25"
+			"uaxis" "[1 0 0 48] 0.25"
 			"vaxis" "[0 0 -1 288] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -37113,6 +37153,7 @@ entity
 	"hardware" "1"
 	"MinDamage" "0"
 	"model" "models/bb2_props/doors/door02b.mdl"
+	"modelscale" "1.0"
 	"opendir" "0"
 	"returndelay" "-1"
 	"Script" "door02b"
@@ -38382,164 +38423,6 @@ entity
 }
 entity
 {
-	"id" "16002"
-	"classname" "info_node_hint"
-	"angles" "0 180 0"
-	"hinttype" "101"
-	"IgnoreFacing" "2"
-	"MaximumState" "3"
-	"MinimumState" "1"
-	"nodeFOV" "180"
-	"nodeid" "1"
-	"spawnflags" "0"
-	"StartHintDisabled" "0"
-	"TargetNode" "-1"
-	"origin" "-1585 -1355 9.00001"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "16036"
-	"classname" "info_node_hint"
-	"angles" "0 180 0"
-	"hinttype" "101"
-	"IgnoreFacing" "2"
-	"MaximumState" "3"
-	"MinimumState" "1"
-	"nodeFOV" "180"
-	"nodeid" "3"
-	"spawnflags" "0"
-	"StartHintDisabled" "0"
-	"TargetNode" "-1"
-	"origin" "-1832 -1551 1.14441e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "16053"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "6"
-	"spawnflags" "0"
-	"origin" "-1758 -1546 1.14441e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "16057"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "7"
-	"spawnflags" "0"
-	"origin" "-1640 -1492 1.14441e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "16065"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "9"
-	"spawnflags" "0"
-	"origin" "-1513 -1542 1.14441e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "16077"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "12"
-	"spawnflags" "0"
-	"origin" "-1507 -1358 1.14441e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "16081"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "13"
-	"spawnflags" "0"
-	"origin" "-1672.86 -1354.17 1.14441e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "16085"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "14"
-	"spawnflags" "0"
-	"origin" "-1804 -1352 3.8147e-006"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "16089"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "15"
-	"spawnflags" "0"
-	"origin" "-1837.14 -1446.13 1.14441e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
 	"id" "16176"
 	"classname" "func_door"
 	"disablereceiveshadows" "0"
@@ -38854,6 +38737,7 @@ entity
 	"hardware" "1"
 	"MinDamage" "0"
 	"model" "models/bb2_props/doors/door02b.mdl"
+	"modelscale" "1.0"
 	"opendir" "0"
 	"returndelay" "-1"
 	"Script" "door02b"
@@ -38889,7 +38773,7 @@ entity
 			"id" "5272"
 			"plane" "(-1343 -1792 112) (-1343 -1736 112) (-1337 -1736 112)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -38922,7 +38806,7 @@ entity
 			"id" "5269"
 			"plane" "(-1343 -1788 108) (-1343 -1792 112) (-1337 -1792 112)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -38933,7 +38817,7 @@ entity
 			"id" "5268"
 			"plane" "(-1337 -1740 108) (-1337 -1736 112) (-1343 -1736 112)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -38944,7 +38828,7 @@ entity
 			"id" "5267"
 			"plane" "(-1337 -1788 108) (-1337 -1740 108) (-1343 -1740 108)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -38965,7 +38849,7 @@ entity
 			"id" "5278"
 			"plane" "(-1343 -1792 112) (-1343 -1788 108) (-1337 -1788 108)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -38976,7 +38860,7 @@ entity
 			"id" "5277"
 			"plane" "(-1337 -1792 0) (-1337 -1788 0) (-1343 -1788 0)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -39009,7 +38893,7 @@ entity
 			"id" "5274"
 			"plane" "(-1337 -1792 0) (-1343 -1792 0) (-1343 -1792 112)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -39020,7 +38904,7 @@ entity
 			"id" "5273"
 			"plane" "(-1343 -1788 0) (-1337 -1788 0) (-1337 -1788 108)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -39041,7 +38925,7 @@ entity
 			"id" "5284"
 			"plane" "(-1337 -1736 112) (-1337 -1740 108) (-1343 -1740 108)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -39052,7 +38936,7 @@ entity
 			"id" "5283"
 			"plane" "(-1343 -1736 0) (-1343 -1740 0) (-1337 -1740 0)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -39085,7 +38969,7 @@ entity
 			"id" "5280"
 			"plane" "(-1343 -1736 0) (-1337 -1736 0) (-1337 -1736 112)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -39096,7 +38980,7 @@ entity
 			"id" "5279"
 			"plane" "(-1337 -1740 0) (-1343 -1740 0) (-1343 -1740 108)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -39115,86 +38999,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 3500]"
-	}
-}
-entity
-{
-	"id" "17293"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "16"
-	"spawnflags" "0"
-	"origin" "-1506.81 -1656.14 1.14441e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17295"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "17"
-	"spawnflags" "0"
-	"origin" "-1634.42 -1650.51 1.14441e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17297"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "18"
-	"spawnflags" "0"
-	"origin" "-1574.72 -1776.15 1.90735e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17299"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "19"
-	"spawnflags" "0"
-	"origin" "-1370.92 -1764.16 3.33787e-006"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17301"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "20"
-	"spawnflags" "0"
-	"origin" "-1201.54 -1770.57 3.33787e-006"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
 	}
 }
 entity
@@ -39587,397 +39391,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -5268]"
-	}
-}
-entity
-{
-	"id" "17423"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "21"
-	"spawnflags" "0"
-	"origin" "-991.945 -1770.78 1.04904e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17425"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "22"
-	"spawnflags" "0"
-	"origin" "-1131 -1645 1.04904e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17427"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "23"
-	"spawnflags" "0"
-	"origin" "-980.75 -1668.69 1.04904e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17429"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "24"
-	"spawnflags" "0"
-	"origin" "-985.119 -1529.97 -4.76836e-006"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17431"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "25"
-	"spawnflags" "0"
-	"origin" "-960 -1361 1.04904e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17433"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "26"
-	"spawnflags" "0"
-	"origin" "-1146 -1394 1.04904e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17439"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "28"
-	"spawnflags" "0"
-	"origin" "-961.575 -1239.91 1.04904e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17441"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "29"
-	"spawnflags" "0"
-	"origin" "-1056.93 -1111.88 1.04904e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17443"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "30"
-	"spawnflags" "0"
-	"origin" "-1182.84 -1274.77 1.04904e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17447"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "31"
-	"spawnflags" "0"
-	"origin" "-1153 -1142 1.04904e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17449"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "32"
-	"spawnflags" "0"
-	"origin" "-1072.12 -1255.36 1.04904e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17453"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "33"
-	"spawnflags" "0"
-	"origin" "-853.569 -1713 22.6893"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17455"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "34"
-	"spawnflags" "0"
-	"origin" "-707.071 -1710.92 48"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17457"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "35"
-	"spawnflags" "0"
-	"origin" "-673.049 -1558.7 84.3594"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17459"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "36"
-	"spawnflags" "0"
-	"origin" "-658.156 -1465.88 112"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17461"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "37"
-	"spawnflags" "0"
-	"origin" "-662.446 -1405.23 112"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17463"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "38"
-	"spawnflags" "0"
-	"origin" "-782.514 -1417.03 117.282"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17465"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "39"
-	"spawnflags" "0"
-	"origin" "-869.019 -1428.41 146.117"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17467"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "40"
-	"spawnflags" "0"
-	"origin" "-990.871 -1436.06 160"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17469"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "41"
-	"spawnflags" "0"
-	"origin" "-1132.03 -1409.87 160"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17473"
-	"classname" "info_node_hint"
-	"angles" "0 270 0"
-	"Group" "dd"
-	"hinttype" "101"
-	"IgnoreFacing" "2"
-	"MaximumState" "3"
-	"MinimumState" "1"
-	"nodeFOV" "180"
-	"nodeid" "42"
-	"spawnflags" "0"
-	"StartHintDisabled" "0"
-	"TargetNode" "-1"
-	"origin" "-1173 -1457 160"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17481"
-	"classname" "info_node_hint"
-	"angles" "0 270 0"
-	"Group" "dd"
-	"hinttype" "101"
-	"IgnoreFacing" "2"
-	"MaximumState" "3"
-	"MinimumState" "1"
-	"nodeFOV" "180"
-	"nodeid" "43"
-	"spawnflags" "0"
-	"StartHintDisabled" "0"
-	"TargetNode" "-1"
-	"origin" "-732 -1458 112"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
-	}
-}
-entity
-{
-	"id" "17493"
-	"classname" "info_node_hint"
-	"angles" "0 270 0"
-	"hinttype" "101"
-	"IgnoreFacing" "2"
-	"MaximumState" "3"
-	"MinimumState" "1"
-	"nodeFOV" "180"
-	"nodeid" "44"
-	"spawnflags" "0"
-	"StartHintDisabled" "0"
-	"TargetNode" "-1"
-	"origin" "-1136 -1517 0"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
 	}
 }
 entity
@@ -40891,7 +40304,7 @@ entity
 			"id" "5718"
 			"plane" "(-1215 -1448 272) (-1215 -1392 272) (-1209 -1392 272)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 -1 0 352] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -40902,7 +40315,7 @@ entity
 			"id" "5717"
 			"plane" "(-1215 -1392 272) (-1215 -1448 272) (-1215 -1444 268)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[0 1 0 -352] 0.25"
+			"uaxis" "[0 1 0 -96] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -40913,7 +40326,7 @@ entity
 			"id" "5716"
 			"plane" "(-1209 -1444 268) (-1209 -1448 272) (-1209 -1392 272)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[0 1 0 -352] 0.25"
+			"uaxis" "[0 1 0 -96] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -40924,7 +40337,7 @@ entity
 			"id" "5715"
 			"plane" "(-1215 -1444 268) (-1215 -1448 272) (-1209 -1448 272)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -40935,7 +40348,7 @@ entity
 			"id" "5714"
 			"plane" "(-1209 -1396 268) (-1209 -1392 272) (-1215 -1392 272)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -40946,7 +40359,7 @@ entity
 			"id" "5713"
 			"plane" "(-1209 -1444 268) (-1209 -1396 268) (-1215 -1396 268)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 -1 0 352] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -40967,7 +40380,7 @@ entity
 			"id" "5724"
 			"plane" "(-1215 -1448 272) (-1215 -1444 268) (-1209 -1444 268)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 -1 0 352] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -40978,7 +40391,7 @@ entity
 			"id" "5723"
 			"plane" "(-1209 -1448 160) (-1209 -1444 160) (-1215 -1444 160)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 -1 0 352] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -40989,7 +40402,7 @@ entity
 			"id" "5722"
 			"plane" "(-1215 -1448 160) (-1215 -1444 160) (-1215 -1444 268)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[0 1 0 -352] 0.25"
+			"uaxis" "[0 1 0 -96] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41000,7 +40413,7 @@ entity
 			"id" "5721"
 			"plane" "(-1209 -1448 272) (-1209 -1444 268) (-1209 -1444 160)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[0 1 0 -352] 0.25"
+			"uaxis" "[0 1 0 -96] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41011,7 +40424,7 @@ entity
 			"id" "5720"
 			"plane" "(-1209 -1448 160) (-1215 -1448 160) (-1215 -1448 272)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41022,7 +40435,7 @@ entity
 			"id" "5719"
 			"plane" "(-1215 -1444 160) (-1209 -1444 160) (-1209 -1444 268)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41043,7 +40456,7 @@ entity
 			"id" "5730"
 			"plane" "(-1209 -1392 272) (-1209 -1396 268) (-1215 -1396 268)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 -1 0 352] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41054,7 +40467,7 @@ entity
 			"id" "5729"
 			"plane" "(-1215 -1392 160) (-1215 -1396 160) (-1209 -1396 160)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 -1 0 352] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41065,7 +40478,7 @@ entity
 			"id" "5728"
 			"plane" "(-1215 -1392 272) (-1215 -1396 268) (-1215 -1396 160)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[0 1 0 -352] 0.25"
+			"uaxis" "[0 1 0 -96] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41076,7 +40489,7 @@ entity
 			"id" "5727"
 			"plane" "(-1209 -1392 160) (-1209 -1396 160) (-1209 -1396 268)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[0 1 0 -352] 0.25"
+			"uaxis" "[0 1 0 -96] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41087,7 +40500,7 @@ entity
 			"id" "5726"
 			"plane" "(-1215 -1392 160) (-1209 -1392 160) (-1209 -1392 272)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41098,7 +40511,7 @@ entity
 			"id" "5725"
 			"plane" "(-1209 -1396 160) (-1215 -1396 160) (-1215 -1396 268)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[1 0 0 -268] 0.25"
+			"uaxis" "[1 0 0 -12] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41772,7 +41185,7 @@ entity
 			"id" "6654"
 			"plane" "(-3313 -1204 400) (-3313 -1260 400) (-3319 -1260 400)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -460] 0.25"
+			"uaxis" "[-1 0 0 -204] 0.25"
 			"vaxis" "[0 1 0 208] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41805,7 +41218,7 @@ entity
 			"id" "6651"
 			"plane" "(-3313 -1208 396) (-3313 -1204 400) (-3319 -1204 400)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -460] 0.25"
+			"uaxis" "[-1 0 0 -204] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41816,7 +41229,7 @@ entity
 			"id" "6650"
 			"plane" "(-3319 -1256 396) (-3319 -1260 400) (-3313 -1260 400)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -460] 0.25"
+			"uaxis" "[-1 0 0 -204] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41827,7 +41240,7 @@ entity
 			"id" "6649"
 			"plane" "(-3319 -1208 396) (-3319 -1256 396) (-3313 -1256 396)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -460] 0.25"
+			"uaxis" "[-1 0 0 -204] 0.25"
 			"vaxis" "[0 1 0 208] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41848,7 +41261,7 @@ entity
 			"id" "6660"
 			"plane" "(-3313 -1204 400) (-3313 -1208 396) (-3319 -1208 396)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -460] 0.25"
+			"uaxis" "[-1 0 0 -204] 0.25"
 			"vaxis" "[0 1 0 208] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41859,7 +41272,7 @@ entity
 			"id" "6659"
 			"plane" "(-3319 -1204 288) (-3319 -1208 288) (-3313 -1208 288)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -460] 0.25"
+			"uaxis" "[-1 0 0 -204] 0.25"
 			"vaxis" "[0 1 0 208] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41892,7 +41305,7 @@ entity
 			"id" "6656"
 			"plane" "(-3319 -1204 288) (-3313 -1204 288) (-3313 -1204 400)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -460] 0.25"
+			"uaxis" "[-1 0 0 -204] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41903,7 +41316,7 @@ entity
 			"id" "6655"
 			"plane" "(-3313 -1208 288) (-3319 -1208 288) (-3319 -1208 396)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -460] 0.25"
+			"uaxis" "[-1 0 0 -204] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41924,7 +41337,7 @@ entity
 			"id" "6666"
 			"plane" "(-3319 -1260 400) (-3319 -1256 396) (-3313 -1256 396)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -460] 0.25"
+			"uaxis" "[-1 0 0 -204] 0.25"
 			"vaxis" "[0 1 0 208] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41935,7 +41348,7 @@ entity
 			"id" "6665"
 			"plane" "(-3313 -1260 288) (-3313 -1256 288) (-3319 -1256 288)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -460] 0.25"
+			"uaxis" "[-1 0 0 -204] 0.25"
 			"vaxis" "[0 1 0 208] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41968,7 +41381,7 @@ entity
 			"id" "6662"
 			"plane" "(-3313 -1260 288) (-3319 -1260 288) (-3319 -1260 400)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -460] 0.25"
+			"uaxis" "[-1 0 0 -204] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -41979,7 +41392,7 @@ entity
 			"id" "6661"
 			"plane" "(-3319 -1256 288) (-3313 -1256 288) (-3313 -1256 396)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -460] 0.25"
+			"uaxis" "[-1 0 0 -204] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -42038,6 +41451,7 @@ entity
 	"hardware" "1"
 	"health" "0"
 	"model" "models/bb2_props/doors/door02b.mdl"
+	"modelscale" "1.0"
 	"opendir" "0"
 	"returndelay" "-1"
 	"skin" "0"
@@ -42069,7 +41483,7 @@ entity
 			"id" "6774"
 			"plane" "(-3537 -1204 400) (-3537 -1260 400) (-3543 -1260 400)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -332] 0.25"
+			"uaxis" "[-1 0 0 -76] 0.25"
 			"vaxis" "[0 1 0 208] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -42102,7 +41516,7 @@ entity
 			"id" "6771"
 			"plane" "(-3537 -1208 396) (-3537 -1204 400) (-3543 -1204 400)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -332] 0.25"
+			"uaxis" "[-1 0 0 -76] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -42113,7 +41527,7 @@ entity
 			"id" "6770"
 			"plane" "(-3543 -1256 396) (-3543 -1260 400) (-3537 -1260 400)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -332] 0.25"
+			"uaxis" "[-1 0 0 -76] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -42124,7 +41538,7 @@ entity
 			"id" "6769"
 			"plane" "(-3543 -1208 396) (-3543 -1256 396) (-3537 -1256 396)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -332] 0.25"
+			"uaxis" "[-1 0 0 -76] 0.25"
 			"vaxis" "[0 1 0 208] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -42145,7 +41559,7 @@ entity
 			"id" "6780"
 			"plane" "(-3537 -1204 400) (-3537 -1208 396) (-3543 -1208 396)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -332] 0.25"
+			"uaxis" "[-1 0 0 -76] 0.25"
 			"vaxis" "[0 1 0 208] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -42156,7 +41570,7 @@ entity
 			"id" "6779"
 			"plane" "(-3543 -1204 288) (-3543 -1208 288) (-3537 -1208 288)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -332] 0.25"
+			"uaxis" "[-1 0 0 -76] 0.25"
 			"vaxis" "[0 1 0 208] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -42189,7 +41603,7 @@ entity
 			"id" "6776"
 			"plane" "(-3543 -1204 288) (-3537 -1204 288) (-3537 -1204 400)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -332] 0.25"
+			"uaxis" "[-1 0 0 -76] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -42200,7 +41614,7 @@ entity
 			"id" "6775"
 			"plane" "(-3537 -1208 288) (-3543 -1208 288) (-3543 -1208 396)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -332] 0.25"
+			"uaxis" "[-1 0 0 -76] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -42221,7 +41635,7 @@ entity
 			"id" "6786"
 			"plane" "(-3543 -1260 400) (-3543 -1256 396) (-3537 -1256 396)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -332] 0.25"
+			"uaxis" "[-1 0 0 -76] 0.25"
 			"vaxis" "[0 1 0 208] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -42232,7 +41646,7 @@ entity
 			"id" "6785"
 			"plane" "(-3537 -1260 288) (-3537 -1256 288) (-3543 -1256 288)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -332] 0.25"
+			"uaxis" "[-1 0 0 -76] 0.25"
 			"vaxis" "[0 1 0 208] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -42265,7 +41679,7 @@ entity
 			"id" "6782"
 			"plane" "(-3537 -1260 288) (-3543 -1260 288) (-3543 -1260 400)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -332] 0.25"
+			"uaxis" "[-1 0 0 -76] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -42276,7 +41690,7 @@ entity
 			"id" "6781"
 			"plane" "(-3543 -1256 288) (-3537 -1256 288) (-3537 -1256 396)"
 			"material" "DEV/DEV_MEASUREDOOR01"
-			"uaxis" "[-1 0 0 -332] 0.25"
+			"uaxis" "[-1 0 0 -76] 0.25"
 			"vaxis" "[0 0 -1 128] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -42335,6 +41749,7 @@ entity
 	"hardware" "1"
 	"health" "0"
 	"model" "models/bb2_props/doors/door01.mdl"
+	"modelscale" "1.0"
 	"opendir" "1"
 	"returndelay" "-1"
 	"skin" "2"
@@ -42379,6 +41794,7 @@ entity
 	"hardware" "1"
 	"health" "0"
 	"model" "models/bb2_props/doors/door02b.mdl"
+	"modelscale" "1.0"
 	"opendir" "0"
 	"returndelay" "-1"
 	"skin" "0"
@@ -42404,6 +41820,8 @@ entity
 	"angles" "0 0 0"
 	"fademindist" "-1"
 	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
 	"model" "models/bb2_props/detail/exit_sign.mdl"
 	"skin" "0"
 	"solid" "6"
@@ -42564,6 +41982,7 @@ entity
 	"massScale" "9000"
 	"minhealthdmg" "0"
 	"model" "models/bb2_props/interior/piano.mdl"
+	"modelscale" "1.0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
 	"physdamagescale" "0.1"
@@ -42598,6 +42017,7 @@ entity
 	"massScale" "9000"
 	"minhealthdmg" "0"
 	"model" "models/bb2_props/interior/piano.mdl"
+	"modelscale" "1.0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
 	"physdamagescale" "0.1"
@@ -42632,6 +42052,7 @@ entity
 	"massScale" "9000"
 	"minhealthdmg" "0"
 	"model" "models/bb2_props/interior/piano.mdl"
+	"modelscale" "1.0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
 	"physdamagescale" "0.1"
@@ -42666,6 +42087,7 @@ entity
 	"massScale" "9000"
 	"minhealthdmg" "0"
 	"model" "models/bb2_props/interior/piano.mdl"
+	"modelscale" "1.0"
 	"nodamageforces" "0"
 	"PerformanceMode" "0"
 	"physdamagescale" "0.1"
@@ -42905,6 +42327,7 @@ entity
 	"StartDisabled" "1"
 	"targetname" "suprise_ded_ach"
 	"TransmitToAll" "1"
+	"wait" "1"
 	solid
 	{
 		"id" "19110"
@@ -43782,6 +43205,7 @@ entity
 	"id" "20932"
 	"classname" "game_manager"
 	"Rounds" "0"
+	"Tries" "1"
 	connections
 	{
 		"OnStartGame" "dspawn,Enable,,2,1"
@@ -44329,6 +43753,7 @@ entity
 	"hardware" "1"
 	"MinDamage" "0"
 	"model" "models/bb2_props/doors/door02b.mdl"
+	"modelscale" "1.0"
 	"opendir" "0"
 	"returndelay" "-1"
 	"Script" "door02b"
@@ -46193,7 +45618,7 @@ entity
 	"targetname" "z"
 	editor
 	{
-		"color" "0 255 0"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 -13768]"
@@ -46205,6 +45630,9 @@ entity
 	"classname" "zombie_volume"
 	"angles" "0 0 0"
 	"AutoSpawn" "1"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
+	"MaximumDistance" "5200"
 	"origin" "-1131 -1746 44.5"
 	"RandomSpawnChance" "20"
 	"spawnflags" "0"
@@ -46301,6 +45729,9 @@ entity
 	"classname" "zombie_volume"
 	"angles" "0 0 0"
 	"AutoSpawn" "1"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
+	"MaximumDistance" "5200"
 	"origin" "-988 -1182 44.5"
 	"RandomSpawnChance" "20"
 	"spawnflags" "0"
@@ -46397,6 +45828,9 @@ entity
 	"classname" "zombie_volume"
 	"angles" "0 0 0"
 	"AutoSpawn" "1"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
+	"MaximumDistance" "5200"
 	"origin" "-1138 -1371 44.5"
 	"RandomSpawnChance" "20"
 	"spawnflags" "0"
@@ -46493,6 +45927,9 @@ entity
 	"classname" "zombie_volume"
 	"angles" "0 0 0"
 	"AutoSpawn" "1"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
+	"MaximumDistance" "5200"
 	"origin" "-991 -1728 44.5"
 	"RandomSpawnChance" "20"
 	"spawnflags" "0"
@@ -46589,6 +46026,9 @@ entity
 	"classname" "zombie_volume"
 	"angles" "0 0 0"
 	"AutoSpawn" "1"
+	"goal_activity" "6"
+	"goal_interrupt_type" "1"
+	"MaximumDistance" "5200"
 	"origin" "-709 -1713 95.5"
 	"RandomSpawnChance" "20"
 	"spawnflags" "0"
@@ -46677,22 +46117,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 -12768]"
-	}
-}
-entity
-{
-	"id" "22497"
-	"classname" "info_node"
-	"angles" "0 0 0"
-	"nodeid" "45"
-	"spawnflags" "0"
-	"origin" "-1058 -1554 1.09672e-005"
-	editor
-	{
-		"color" "232 219 8"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 4500]"
 	}
 }
 entity
@@ -47638,8 +47062,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-670.731 -92.9895 145.521]"
-		"look" "[-812.358 -177.767 100.675]"
+		"position" "[-583.204 -404.155 137.103]"
+		"look" "[-418.38 -449.849 138.297]"
 	}
 }
 cordon
