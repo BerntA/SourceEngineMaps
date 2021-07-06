@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "8357"
-	"mapversion" "270"
+	"editorbuild" "9008"
+	"mapversion" "272"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -44,7 +44,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "270"
+	"mapversion" "272"
 	"classname" "worldspawn"
 	"arena_reinforcements" "15"
 	"arena_respawntime" "20"
@@ -167083,6 +167083,7 @@ entity
 	"id" "97517"
 	"classname" "prop_dynamic"
 	"angles" "0 270 0"
+	"DisableBoneFollowers" "1"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
 	"ExplodeDamage" "0"
@@ -167246,6 +167247,7 @@ entity
 	"id" "97533"
 	"classname" "prop_dynamic"
 	"angles" "0 270 0"
+	"DisableBoneFollowers" "1"
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
 	"ExplodeDamage" "0"
@@ -177237,7 +177239,7 @@ entity
 	"id" "123161"
 	"classname" "npc_m1a1"
 	"angles" "0 0 0"
-	"classification" "15"
+	"classification" "1"
 	"disableshadows" "1"
 	"maxrange" "1500"
 	"minrange" "550"
@@ -178933,8 +178935,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[3637.24 1794.24 1242.3]"
-		"look" "[3237.19 2843.44 778.337]"
+		"position" "[3290.47 2585.05 1342.61]"
+		"look" "[2242.4 3170.81 1156.74]"
 	}
 }
 cordon
