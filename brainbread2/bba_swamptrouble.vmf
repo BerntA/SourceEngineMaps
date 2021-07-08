@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9008"
-	"mapversion" "722"
+	"mapversion" "723"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "722"
+	"mapversion" "723"
 	"classname" "worldspawn"
 	"arena_reinforcements" "10"
 	"arena_respawntime" "15"

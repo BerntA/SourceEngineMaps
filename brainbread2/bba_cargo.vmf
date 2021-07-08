@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9008"
-	"mapversion" "248"
+	"mapversion" "249"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "248"
+	"mapversion" "249"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.3.24 from bba_cargo"
 	"detailmaterial" "detail/detailsprites"
@@ -59128,7 +59128,7 @@ entity
 		}
 		editor
 		{
-			"color" "0 126 191"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -59532,7 +59532,7 @@ entity
 		}
 		editor
 		{
-			"color" "0 100 133"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -60934,7 +60934,7 @@ entity
 		}
 		editor
 		{
-			"color" "0 174 183"
+			"color" "0 180 0"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -64440,8 +64440,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-606 534 14.3473]"
-		"look" "[-606 800.39 14.3473]"
+		"position" "[-221.49 494.268 124.566]"
+		"look" "[-177.636 753.549 81.9755]"
 	}
 	camera
 	{
