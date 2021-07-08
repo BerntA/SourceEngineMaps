@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9008"
-	"mapversion" "249"
+	"mapversion" "250"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "249"
+	"mapversion" "250"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.3.24 from bba_cargo"
 	"detailmaterial" "detail/detailsprites"
@@ -23747,7 +23747,7 @@ entity
 	"fademindist" "-1"
 	"material" "decals/decalstain002a"
 	"RenderOrder" "0"
-	"sides" "1329"
+	"sides" "13408"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-133.777 -130.325 0"
@@ -23777,7 +23777,7 @@ entity
 	"fademindist" "-1"
 	"material" "metal/metalvent002b_decal_fadefix"
 	"RenderOrder" "0"
-	"sides" "1479"
+	"sides" "13251"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-20.5147 -20 0"
@@ -23807,7 +23807,7 @@ entity
 	"fademindist" "-1"
 	"material" "decals/decalstain011a"
 	"RenderOrder" "0"
-	"sides" "1479"
+	"sides" "13251"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-64 -64 0"
@@ -23837,7 +23837,7 @@ entity
 	"fademindist" "-1"
 	"material" "ads/sethen"
 	"RenderOrder" "0"
-	"sides" "1555"
+	"sides" "12908"
 	"StartU" "0"
 	"StartV" "1"
 	"uv0" "-64 -32 0"
@@ -64440,8 +64440,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-221.49 494.268 124.566]"
-		"look" "[-177.636 753.549 81.9755]"
+		"position" "[-787.12 1150.08 -1282.67]"
+		"look" "[-633.522 1361.49 -1334.42]"
 	}
 	camera
 	{
