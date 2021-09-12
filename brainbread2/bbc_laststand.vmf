@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "8357"
-	"mapversion" "70"
+	"editorbuild" "9008"
+	"mapversion" "72"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "70"
+	"mapversion" "72"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -43895,7 +43895,6 @@ entity
 	"id" "72792"
 	"classname" "logic_objective"
 	"angles" "0 0 0"
-	"Index" "2"
 	"KillScaleFactor" "15"
 	"KillsNeeded" "50"
 	"MaxKillsNeeded" "70"
@@ -43929,7 +43928,6 @@ entity
 	"id" "72832"
 	"classname" "logic_objective"
 	"angles" "0 0 0"
-	"Index" "4"
 	"Objective" "Look for the Data module. take it to the Helicopter"
 	"origin" "320 -192 32"
 	"spawnflags" "0"
@@ -44123,7 +44121,6 @@ entity
 	"id" "74070"
 	"classname" "logic_objective"
 	"angles" "0 0 0"
-	"Index" "6"
 	"KillsNeeded" "0"
 	"Objective" "Fred has been spotted, kill him!"
 	"origin" "320 -128 32"
@@ -44217,6 +44214,8 @@ entity
 	"MapItem" "1"
 	"model" "models/props_junk/metalgascan.mdl"
 	"origin" "-4 1264 20"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
 	"targetname" "objective_foxtrot_fuelcan_alpha"
 	editor
 	{
@@ -44237,6 +44236,8 @@ entity
 	"MapItem" "1"
 	"model" "models/props_junk/metalgascan.mdl"
 	"origin" "12 1264 20"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
 	"targetname" "objective_foxtrot_fuelcan_bravo"
 	editor
 	{
@@ -44257,6 +44258,8 @@ entity
 	"MapItem" "1"
 	"model" "models/props_junk/metalgascan.mdl"
 	"origin" "28 1264 20"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
 	"targetname" "objective_foxtrot_fuelcan_charlie"
 	editor
 	{
@@ -44277,6 +44280,8 @@ entity
 	"MapItem" "1"
 	"model" "models/props_junk/metalgascan.mdl"
 	"origin" "44 1264 20"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
 	"targetname" "objective_foxtrot_fuelcan_delta"
 	editor
 	{
@@ -44605,7 +44610,6 @@ entity
 	"id" "76957"
 	"classname" "logic_objective"
 	"angles" "0 0 0"
-	"Index" "7"
 	"KillsNeeded" "0"
 	"Objective" "Find fuel for the helicopter"
 	"origin" "320 -96 32"
@@ -45009,7 +45013,6 @@ entity
 	"id" "76994"
 	"classname" "logic_objective"
 	"angles" "0 0 0"
-	"Index" "10"
 	"KillsNeeded" "0"
 	"Objective" "Get to the helicopter and escape!"
 	"origin" "320 0 32"
@@ -45041,6 +45044,8 @@ entity
 	"MapItem" "1"
 	"model" "models/props_junk/metalgascan.mdl"
 	"origin" "58 1264 20"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
 	"targetname" "objective_foxtrot_fuelcan_echo"
 	editor
 	{
@@ -45153,6 +45158,8 @@ entity
 	"MapItem" "1"
 	"model" "models/bb2_props/computers/radio02.mdl"
 	"origin" "95.36 1264 4"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
 	"targetname" "objective_charlie_module"
 	editor
 	{
@@ -45167,7 +45174,6 @@ entity
 	"id" "97632"
 	"classname" "logic_objective"
 	"angles" "0 0 0"
-	"Index" "8"
 	"KillsNeeded" "0"
 	"Objective" "There is a briefcase located in the region, find and take it to the helicopter!"
 	"origin" "320 -64 32"
@@ -45282,7 +45288,6 @@ entity
 	"id" "98669"
 	"classname" "logic_objective"
 	"angles" "0 0 0"
-	"Index" "9"
 	"KillScaleFactor" "22"
 	"KillsNeeded" "55"
 	"MaxKillsNeeded" "132"
@@ -45599,6 +45604,8 @@ entity
 	"ItemID" "1"
 	"model" "models/items/briefcase.mdl"
 	"origin" "2165 870.01 44.01"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
 	"targetname" "objective_foxtrot_a_briefcase"
 	editor
 	{
@@ -47267,6 +47274,7 @@ entity
 	"ajarangles" "0 0 0"
 	"angles" "0 90 0"
 	"axis" "588 -621.99 98.25, 588 -621.99 98.25"
+	"CanBreak" "1"
 	"DamageScale" "0.5"
 	"disableshadows" "1"
 	"distance" "90"
@@ -47399,7 +47407,6 @@ entity
 	"health" "0"
 	"ignoredebris" "0"
 	"lip" "0"
-	"locked_sentence" "0"
 	"loopmovesound" "0"
 	"movedir" "0 90 0"
 	"noise1" "Doors.Armory.Open"
@@ -47414,7 +47421,6 @@ entity
 	"speed" "100"
 	"startclosesound" "Doors.Armory.Open"
 	"targetname" "locker_door"
-	"unlocked_sentence" "0"
 	"wait" "-1"
 	solid
 	{
@@ -47834,7 +47840,6 @@ entity
 	"health" "0"
 	"ignoredebris" "0"
 	"lip" "0"
-	"locked_sentence" "0"
 	"loopmovesound" "0"
 	"movedir" "0 0 0"
 	"noise1" "Doors.Armory.Open"
@@ -47849,7 +47854,6 @@ entity
 	"speed" "100"
 	"startclosesound" "Doors.Armory.Open"
 	"targetname" "locker_door"
-	"unlocked_sentence" "0"
 	"wait" "-1"
 	solid
 	{
@@ -48341,7 +48345,6 @@ entity
 	"health" "0"
 	"ignoredebris" "0"
 	"lip" "0"
-	"locked_sentence" "0"
 	"loopmovesound" "0"
 	"movedir" "0 0 0"
 	"noise1" "Doors.Armory.Open"
@@ -48356,7 +48359,6 @@ entity
 	"speed" "100"
 	"startclosesound" "Doors.Armory.Open"
 	"targetname" "locker_door"
-	"unlocked_sentence" "0"
 	"wait" "-1"
 	solid
 	{
@@ -49308,7 +49310,6 @@ entity
 	"health" "0"
 	"ignoredebris" "0"
 	"lip" "0"
-	"locked_sentence" "0"
 	"loopmovesound" "0"
 	"movedir" "0 180 0"
 	"noise1" "Doors.Armory.Open"
@@ -49323,7 +49324,6 @@ entity
 	"speed" "100"
 	"startclosesound" "Doors.Armory.Open"
 	"targetname" "locker_door"
-	"unlocked_sentence" "0"
 	"wait" "-1"
 	solid
 	{
@@ -49725,7 +49725,6 @@ entity
 	"health" "0"
 	"ignoredebris" "0"
 	"lip" "0"
-	"locked_sentence" "0"
 	"loopmovesound" "0"
 	"movedir" "0 180 0"
 	"noise1" "Doors.Armory.Open"
@@ -49740,7 +49739,6 @@ entity
 	"speed" "100"
 	"startclosesound" "Doors.Armory.Open"
 	"targetname" "locker_door"
-	"unlocked_sentence" "0"
 	"wait" "-1"
 	solid
 	{
@@ -50142,7 +50140,6 @@ entity
 	"health" "0"
 	"ignoredebris" "0"
 	"lip" "0"
-	"locked_sentence" "0"
 	"loopmovesound" "0"
 	"movedir" "0 0 0"
 	"noise1" "Doors.Armory.Open"
@@ -50157,7 +50154,6 @@ entity
 	"speed" "100"
 	"startclosesound" "Doors.Armory.Open"
 	"targetname" "locker_door"
-	"unlocked_sentence" "0"
 	"wait" "-1"
 	solid
 	{
@@ -50559,7 +50555,6 @@ entity
 	"health" "0"
 	"ignoredebris" "0"
 	"lip" "0"
-	"locked_sentence" "0"
 	"loopmovesound" "0"
 	"movedir" "0 0 0"
 	"noise1" "Doors.Armory.Open"
@@ -50574,7 +50569,6 @@ entity
 	"speed" "100"
 	"startclosesound" "Doors.Armory.Open"
 	"targetname" "locker_door"
-	"unlocked_sentence" "0"
 	"wait" "-1"
 	solid
 	{
@@ -93843,7 +93837,7 @@ entity
 	"classname" "prop_static"
 	"angles" "-0.0782 66.5062 -8.9997"
 	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
@@ -93856,7 +93850,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/props_vehicles/airplane_piperwreckglass.mdl"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "2126.2 735.729 -7.8468"
 	editor
 	{
@@ -100310,7 +100304,7 @@ entity
 	"classname" "prop_static"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "1000"
 	"fademindist" "800"
@@ -100323,7 +100317,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/props/de_train/de_train_floodlights_01.mdl"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "188 -876 140"
 	editor
 	{
@@ -100339,7 +100333,7 @@ entity
 	"classname" "prop_static"
 	"angles" "0 0 0"
 	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "1000"
 	"fademindist" "800"
@@ -100352,7 +100346,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/props/de_train/de_train_floodlights_01.mdl"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "188 -724 140"
 	editor
 	{
@@ -100919,7 +100913,7 @@ entity
 	"classname" "prop_static"
 	"angles" "0 90 0"
 	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "1000"
 	"fademindist" "800"
@@ -100932,7 +100926,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/props/de_train/de_train_floodlights_01.mdl"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "641 -620 140"
 	editor
 	{
@@ -100948,7 +100942,7 @@ entity
 	"classname" "prop_static"
 	"angles" "0 90 0"
 	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"fademaxdist" "1000"
 	"fademindist" "800"
@@ -100961,7 +100955,7 @@ entity
 	"mindxlevel" "0"
 	"model" "models/props/de_train/de_train_floodlights_01.mdl"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "489 -620 140"
 	editor
 	{
@@ -123169,8 +123163,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[478.848 -919.643 123.151]"
-		"look" "[627.732 -1137.09 84.2368]"
+		"position" "[289.055 420.932 290.937]"
+		"look" "[156.247 593.405 137.382]"
 	}
 	camera
 	{
