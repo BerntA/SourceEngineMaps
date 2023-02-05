@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9008"
-	"mapversion" "723"
+	"mapversion" "730"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "723"
+	"mapversion" "730"
 	"classname" "worldspawn"
 	"arena_reinforcements" "10"
 	"arena_respawntime" "15"
@@ -9848,7 +9848,7 @@ world
 		{
 			"id" "14160"
 			"plane" "(-837 -62 231) (-837 -104 231) (-853 -104 231)"
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 -28] 0.25"
 			"vaxis" "[0 -1 0 40] 0.25"
 			"rotation" "0"
@@ -9859,7 +9859,7 @@ world
 		{
 			"id" "14159"
 			"plane" "(-837 -104 83) (-837 -62 83) (-853 -62 83)"
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 -28] 0.25"
 			"vaxis" "[0 -1 0 40] 0.25"
 			"rotation" "0"
@@ -9870,7 +9870,7 @@ world
 		{
 			"id" "14158"
 			"plane" "(-853 -104 231) (-853 -104 83) (-853 -62 83)"
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 1 0 -40] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -9881,7 +9881,7 @@ world
 		{
 			"id" "14157"
 			"plane" "(-837 -104 83) (-837 -104 231) (-837 -62 231)"
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[0 1 0 -40] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -9892,7 +9892,7 @@ world
 		{
 			"id" "14156"
 			"plane" "(-853 -62 231) (-853 -62 83) (-837 -62 83)"
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 -28] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -9903,7 +9903,7 @@ world
 		{
 			"id" "14155"
 			"plane" "(-853 -104 83) (-853 -104 231) (-837 -104 231)"
-			"material" "TOOLS/TOOLSCLIP"
+			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[1 0 0 -28] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -17641,6 +17641,158 @@ world
 			"visgroupautoshown" "1"
 		}
 	}
+	solid
+	{
+		"id" "438479"
+		side
+		{
+			"id" "16848"
+			"plane" "(-1082 -47 106) (-1060 -77 106) (-1085 -97 106)"
+			"material" "TOOLS/TOOLSINVISIBLE"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16849"
+			"plane" "(-1060 -77 82.5) (-1082 -47 82.5) (-1108 -66 82.5)"
+			"material" "TOOLS/TOOLSINVISIBLE"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16850"
+			"plane" "(-1085 -97 106) (-1085 -97 82.5) (-1108 -66 82.5)"
+			"material" "TOOLS/TOOLSINVISIBLE"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16851"
+			"plane" "(-1060 -77 82.5) (-1060 -77 106) (-1082 -47 106)"
+			"material" "TOOLS/TOOLSINVISIBLE"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16852"
+			"plane" "(-1108 -66 106) (-1108 -66 82.5) (-1082 -47 82.5)"
+			"material" "TOOLS/TOOLSINVISIBLE"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16853"
+			"plane" "(-1085 -97 82.5) (-1085 -97 106) (-1060 -77 106)"
+			"material" "TOOLS/TOOLSINVISIBLE"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 202 107"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "438483"
+		side
+		{
+			"id" "16854"
+			"plane" "(-853 -62 231) (-837 -62 231) (-837 -105 231)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16855"
+			"plane" "(-853 -105 153) (-837 -105 153) (-837 -62 153)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16856"
+			"plane" "(-853 -62 231) (-853 -105 231) (-853 -105 153)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16857"
+			"plane" "(-837 -62 153) (-837 -105 153) (-837 -105 231)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16858"
+			"plane" "(-837 -62 231) (-853 -62 231) (-853 -62 153)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "16859"
+			"plane" "(-837 -105 153) (-853 -105 153) (-853 -105 231)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 170 179"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
 	group
 	{
 		"id" "5434"
@@ -23435,7 +23587,7 @@ entity
 	"angles" "0 284.5 0"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"origin" "-844 -73 122.61"
+	"origin" "-848 -75 123"
 	"spawnflags" "0"
 	editor
 	{
@@ -26345,7 +26497,7 @@ entity
 	"model" "models/props_c17/furnitureshelf001b.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-844.5 -84 122.405"
 	editor
 	{
@@ -49557,7 +49709,7 @@ entity
 	"model" "models/props_junk/cardboard_box002a.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
-	"solid" "6"
+	"solid" "0"
 	"origin" "-1084 -72 95"
 	editor
 	{
@@ -49575,7 +49727,7 @@ entity
 	"angles" "-7.39712 107.102 -90.8001"
 	"fademindist" "-1"
 	"fadescale" "1"
-	"origin" "-1087 -69 106.82"
+	"origin" "-1087 -69 107"
 	"spawnflags" "0"
 	editor
 	{
@@ -58196,6 +58348,7 @@ entity
 	"MinRespawnDelay" "5"
 	"npc_classname" "npc_military_static"
 	"origin" "112 440 91"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "npc_round_2_allies"
 	"weapon_classname" "weapon_ak47"
@@ -58219,6 +58372,7 @@ entity
 	"MinRespawnDelay" "5"
 	"npc_classname" "npc_military_static"
 	"origin" "-1064 176 91"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "npc_round_2_allies"
 	"weapon_classname" "weapon_sawedoff"
@@ -58385,6 +58539,7 @@ entity
 	"MinRespawnDelay" "0"
 	"npc_classname" "npc_bandit"
 	"origin" "-728 1408 128"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "bandit_spawner_1"
 	"weapon_classname" "weapon_ak47"
@@ -58412,6 +58567,7 @@ entity
 	"MinRespawnDelay" "0"
 	"npc_classname" "npc_bandit"
 	"origin" "-728 1472 128"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "bandit_spawner_1"
 	"weapon_classname" "weapon_ak47"
@@ -58439,6 +58595,7 @@ entity
 	"MinRespawnDelay" "0"
 	"npc_classname" "npc_bandit"
 	"origin" "24 1352 139"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "bandit_spawner_1"
 	"weapon_classname" "weapon_famas"
@@ -58466,6 +58623,7 @@ entity
 	"MinRespawnDelay" "0"
 	"npc_classname" "npc_bandit"
 	"origin" "24 1416 139"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "bandit_spawner_1"
 	"weapon_classname" "weapon_famas"
@@ -58493,6 +58651,7 @@ entity
 	"MinRespawnDelay" "0"
 	"npc_classname" "npc_bandit"
 	"origin" "24 1480 139"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "bandit_spawner_1"
 	"weapon_classname" "weapon_remington"
@@ -58520,6 +58679,7 @@ entity
 	"MinRespawnDelay" "0"
 	"npc_classname" "npc_bandit"
 	"origin" "-728 1344 128"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "bandit_spawner_1"
 	"weapon_classname" "weapon_remington"
@@ -58547,6 +58707,7 @@ entity
 	"MinRespawnDelay" "0"
 	"npc_classname" "npc_bandit"
 	"origin" "1600 -1072 116.86"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "bandit_spawner_1"
 	"weapon_classname" "weapon_ak47"
@@ -58574,6 +58735,7 @@ entity
 	"MinRespawnDelay" "0"
 	"npc_classname" "npc_bandit"
 	"origin" "1600 -992 116.86"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "bandit_spawner_1"
 	"weapon_classname" "weapon_ak47"
@@ -58601,6 +58763,7 @@ entity
 	"MinRespawnDelay" "0"
 	"npc_classname" "npc_bandit"
 	"origin" "1600 -920 116.86"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "bandit_spawner_1"
 	"weapon_classname" "weapon_famas"
@@ -58628,6 +58791,7 @@ entity
 	"MinRespawnDelay" "0"
 	"npc_classname" "npc_bandit"
 	"origin" "1600 -840 116.86"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "bandit_spawner_1"
 	"weapon_classname" "weapon_famas"
@@ -58655,6 +58819,7 @@ entity
 	"MinRespawnDelay" "0"
 	"npc_classname" "npc_bandit"
 	"origin" "1528 -840 116.86"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "bandit_spawner_1"
 	"weapon_classname" "weapon_remington"
@@ -58682,6 +58847,7 @@ entity
 	"MinRespawnDelay" "0"
 	"npc_classname" "npc_bandit"
 	"origin" "1528 -920 116.86"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "bandit_spawner_1"
 	"weapon_classname" "weapon_famas"
@@ -58709,6 +58875,7 @@ entity
 	"MinRespawnDelay" "0"
 	"npc_classname" "npc_bandit"
 	"origin" "1528 -992 116.86"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "bandit_spawner_1"
 	"weapon_classname" "weapon_ak47"
@@ -58736,6 +58903,7 @@ entity
 	"MinRespawnDelay" "0"
 	"npc_classname" "npc_bandit"
 	"origin" "1456 -920 107"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "bandit_spawner_3"
 	"weapon_classname" "weapon_remington"
@@ -58763,6 +58931,7 @@ entity
 	"MinRespawnDelay" "0"
 	"npc_classname" "npc_bandit"
 	"origin" "1384 -992 110"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "bandit_spawner_2"
 	"weapon_classname" "weapon_sawedoff"
@@ -59344,6 +59513,7 @@ entity
 	"MinRespawnDelay" "0"
 	"npc_classname" "npc_bandit"
 	"origin" "-1048 -680 146.32"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "bandit_spawner_2"
 	"weapon_classname" "weapon_remington"
@@ -59371,6 +59541,7 @@ entity
 	"MinRespawnDelay" "0"
 	"npc_classname" "npc_bandit"
 	"origin" "-992 -680 146.32"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "bandit_spawner_3"
 	"weapon_classname" "weapon_remington"
@@ -59398,6 +59569,7 @@ entity
 	"MinRespawnDelay" "0"
 	"npc_classname" "npc_bandit"
 	"origin" "-936 -664 147.18"
+	"spawnflags" "516"
 	"StartDisabled" "1"
 	"targetname" "bandit_spawner_1"
 	"weapon_classname" "weapon_ak47"
