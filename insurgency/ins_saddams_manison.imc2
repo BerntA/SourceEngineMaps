@@ -41,31 +41,31 @@ IMCData
 	{
 		"USMC Spawn"
 		{
-			"phonetic" 	"a"		
+			"phonetic" 	"d"		
 			"color"  	"IMCCOLOR_RED"
 		}
 	
 		"House A"
 		{
-			"phonetic" 	"d"
+			"phonetic" 	"a"
 			"color"  	"IMCCOLOR_YELLOW"
 		}
 
 		"House B"
 		{
-			"phonetic" 	"e"
+			"phonetic" 	"b"
 			"color"  	"IMCCOLOR_ORANGE"
 		}
 
 		"Bridge"
 		{
 			"phonetic" 	"c"
-			"color"  	"IMCCOLOR_RED"
+			"color"  	"IMCCOLOR_BLUE"
 		}	
 		
 		"IRAQI Spawn"
 		{
-			"phonetic" 	"b"
+			"phonetic" 	"e"
 			"color"  	"IMCCOLOR_RED"
 		}
 	}
