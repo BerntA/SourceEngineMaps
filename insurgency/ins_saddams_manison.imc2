@@ -1,0 +1,123 @@
+IMCData
+{	
+	"mapname"  		"Saddam's Mansion"
+	"theatre" 		"THEATERTYPE_IRAQ"
+	"vmapname"		"ins_saddams_manison"	
+	"mapoverview"	"Infiltrate Saddam's man cave!"
+
+	TeamOne
+	{
+		"type"  	"TEAM_USMC"
+		"numwaves" 	"-1"
+		"timewave" 	"5"
+		"objwaves" 	"0"
+		"ewaves" 	"0"
+
+
+		Squads		
+		{
+			"Squad"	"rifle"			
+			"Squad"	"sweapons"		
+		}
+	}
+
+	TeamTwo  					
+	{
+		"type"  	"TEAM_IRAQI"
+		"numwaves" 	"-1"
+		"timewave" 	"5"
+		"objwaves" 	"0"
+		"ewaves" 	"0"
+
+
+		Squads		
+		{
+			"Squad"	"rifle"			
+			"Squad"	"sweapons"		
+		}
+	}
+
+	ObjectiveData
+	{
+		"USMC Spawn"
+		{
+			"phonetic" 	"a"		
+			"color"  	"IMCCOLOR_RED"
+		}
+	
+		"House A"
+		{
+			"phonetic" 	"d"
+			"color"  	"IMCCOLOR_YELLOW"
+		}
+
+		"House B"
+		{
+			"phonetic" 	"e"
+			"color"  	"IMCCOLOR_ORANGE"
+		}
+
+		"Bridge"
+		{
+			"phonetic" 	"c"
+			"color"  	"IMCCOLOR_RED"
+		}	
+		
+		"IRAQI Spawn"
+		{
+			"phonetic" 	"b"
+			"color"  	"IMCCOLOR_RED"
+		}
+	}
+
+	ProfileData 					
+	{
+		"Firefight"  				
+		{
+			"gametype" 				"GAMETYPE_FIREFIGHT"
+			"roundlength" 			"900"
+			"movingspawns"			"0"
+			"colorcorrection"		"ramadifinal"
+			
+			ObjectiveData
+			{
+				"USMC Spawn"
+				{
+					"teamstart"		"TEAMSTART_ONE"
+					"startspawn"	"1"
+					"hidden"		"1"
+				}
+				
+				"House A"
+				{
+					"teamstart"		"TEAMSTART_ONE"
+					"reqpercent"	"20"
+					"captime"		"15"
+					"mixedspawns"	"1"
+				}
+
+				"Bridge"
+				{
+					"teamstart"		"TEAMSTART_NEUTRAL"
+					"reqpercent"	"20"
+					"captime"		"15"
+				}	
+				
+				"House B"
+				{
+					"teamstart"		"TEAMSTART_TWO"
+					"reqpercent"	"20"
+					"captime"		"15"
+					"mixedspawns"	"1"
+				}
+
+				"IRAQI Spawn"
+				{
+					"teamstart"		"TEAMSTART_TWO"
+					"startspawn"	"1"
+					"hidden"		"1"
+				}				
+			}
+		}
+	}
+}
