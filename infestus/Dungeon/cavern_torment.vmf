@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "905"
+	"mapversion" "907"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -89,7 +89,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "905"
+	"mapversion" "907"
 	"classname" "worldspawn"
 	"defaultsoundscape" "caverntorment.default"
 	"detailmaterial" "detail/detailsprites"
@@ -175206,11 +175206,11 @@ entity
 {
 	"id" "145742"
 	"classname" "trigger_changelevel"
-	"angles" "0 0 0"
 	"NextMap" "lightfall"
-	"NextMapType" "3"
+	"NextMapType" "1"
 	"origin" "1924.5 5816 248.5"
 	"spawnflags" "1"
+	"SpawnPoint" "frm_cvr_trmt"
 	"StartDisabled" "0"
 	solid
 	{

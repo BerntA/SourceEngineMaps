@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "627"
+	"mapversion" "628"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -101,7 +101,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "627"
+	"mapversion" "628"
 	"classname" "worldspawn"
 	"defaultsoundscape" "catacombs.default"
 	"detailmaterial" "detail/detailsprites"
@@ -353500,11 +353500,11 @@ entity
 {
 	"id" "4457"
 	"classname" "trigger_changelevel"
-	"angles" "0 0 0"
 	"NextMap" "capital_outskirts"
-	"NextMapType" "3"
+	"NextMapType" "1"
 	"origin" "7709 14236 153"
 	"spawnflags" "1"
+	"SpawnPoint" "dung_exit"
 	"StartDisabled" "0"
 	solid
 	{
@@ -552342,8 +552342,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[11245.1 7680.11 -517.868]"
-		"look" "[11243.7 7688.11 -527.974]"
+		"position" "[7762.98 14117.4 153]"
+		"look" "[7758.15 14128 147.398]"
 	}
 }
 cordons

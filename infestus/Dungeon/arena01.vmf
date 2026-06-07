@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "299"
+	"mapversion" "308"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -95,7 +95,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "299"
+	"mapversion" "308"
 	"classname" "worldspawn"
 	"defaultsoundscape" "bloodstone.default"
 	"detailmaterial" "detail/detailsprites"
@@ -80276,7 +80276,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -80377,7 +80377,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -80478,7 +80478,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -80579,7 +80579,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -80680,7 +80680,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -80781,7 +80781,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -80882,7 +80882,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -80983,7 +80983,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -81104,7 +81104,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -81225,7 +81225,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -81346,7 +81346,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -81467,7 +81467,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -81588,7 +81588,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -81709,7 +81709,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -81830,7 +81830,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -81951,7 +81951,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -82072,7 +82072,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -82193,7 +82193,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -82314,7 +82314,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -82435,7 +82435,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -82556,7 +82556,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -82677,7 +82677,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -82798,7 +82798,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -82919,7 +82919,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "1"
+					"visgroupshown" "0"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -102227,9 +102227,10 @@ entity
 	"id" "53783"
 	"classname" "trigger_changelevel"
 	"NextMap" "scorchridge"
-	"NextMapType" "3"
+	"NextMapType" "1"
 	"origin" "1127 2965 115.5"
 	"spawnflags" "1"
+	"SpawnPoint" "frm_arena"
 	"StartDisabled" "0"
 	solid
 	{
@@ -102368,7 +102369,7 @@ entity
 	"health" "0"
 	"ignoredebris" "0"
 	"lip" "-5"
-	"loopmovesound" "1"
+	"loopmovesound" "0"
 	"movedir" "90 0 0"
 	"noise1" "doors/door_stone_open_01.wav"
 	"noise2" "doors/door_stone_close_02.wav"
@@ -102519,7 +102520,7 @@ entity
 	"health" "0"
 	"ignoredebris" "0"
 	"lip" "-5"
-	"loopmovesound" "1"
+	"loopmovesound" "0"
 	"movedir" "90 0 0"
 	"noise1" "doors/door_stone_open_01.wav"
 	"noise2" "doors/door_stone_close_02.wav"
@@ -102670,7 +102671,7 @@ entity
 	"health" "0"
 	"ignoredebris" "0"
 	"lip" "-5"
-	"loopmovesound" "1"
+	"loopmovesound" "0"
 	"movedir" "90 0 0"
 	"noise1" "doors/door_stone_open_01.wav"
 	"noise2" "doors/door_stone_close_02.wav"
@@ -102821,7 +102822,7 @@ entity
 	"health" "0"
 	"ignoredebris" "0"
 	"lip" "-5"
-	"loopmovesound" "1"
+	"loopmovesound" "0"
 	"movedir" "90 0 0"
 	"noise1" "doors/door_stone_open_01.wav"
 	"noise2" "doors/door_stone_close_02.wav"
@@ -103428,6 +103429,7 @@ entity
 		"OnTrigger" "door00,Open,,0.1,-1"
 		"OnTrigger" "respawn_timer,Kill,,0.05,-1"
 		"OnTrigger" "quest_1,ProgressAll,,0,-1"
+		"OnTrigger" "quest_daily,ProgressAll,,0.03,-1"
 	}
 	"origin" "1143 1518 251"
 	editor
@@ -104596,7 +104598,9 @@ entity
 	"rendercolor" "255 255 255"
 	"RespawnMaxDelay" "180"
 	"RespawnMinDelay" "90"
+	"silentsquad" "1"
 	"spawnflags" "2"
+	"squadname" "ogremen"
 	"targetname" "group01_ogres"
 	"wepmainhandid" "266"
 	"wepoffhandid" "63"
@@ -104631,7 +104635,9 @@ entity
 	"rendercolor" "255 255 255"
 	"RespawnMaxDelay" "180"
 	"RespawnMinDelay" "90"
+	"silentsquad" "1"
 	"spawnflags" "2"
+	"squadname" "ogremen"
 	"targetname" "group01_ogres"
 	"wepmainhandid" "266"
 	"wepoffhandid" "63"
@@ -104666,7 +104672,9 @@ entity
 	"rendercolor" "255 255 255"
 	"RespawnMaxDelay" "180"
 	"RespawnMinDelay" "90"
+	"silentsquad" "1"
 	"spawnflags" "2"
+	"squadname" "ogremen"
 	"targetname" "group01_ogres"
 	"wepmainhandid" "266"
 	"wepoffhandid" "63"
@@ -104701,7 +104709,9 @@ entity
 	"rendercolor" "255 255 255"
 	"RespawnMaxDelay" "180"
 	"RespawnMinDelay" "90"
+	"silentsquad" "1"
 	"spawnflags" "2"
+	"squadname" "ogremen"
 	"targetname" "group01_ogres"
 	"wepmainhandid" "266"
 	"wepoffhandid" "63"
@@ -105676,7 +105686,7 @@ entity
 	"CanRegenHealth" "1"
 	"idlemode" "2"
 	"metadata" "0"
-	"notifyallsquad" "1"
+	"notifyallsquad" "0"
 	"NPCID" "185"
 	"PatrolInterruptStrictness" "1"
 	"PatrolTarget" "gt2_pt_2_4"
@@ -105685,6 +105695,7 @@ entity
 	"rendercolor" "255 255 255"
 	"RespawnMaxDelay" "180"
 	"RespawnMinDelay" "90"
+	"silentsquad" "1"
 	"spawnflags" "2"
 	"squadname" "group03_02"
 	"targetname" "group03_elites"
@@ -105712,7 +105723,7 @@ entity
 	"CanRegenHealth" "1"
 	"idlemode" "2"
 	"metadata" "0"
-	"notifyallsquad" "1"
+	"notifyallsquad" "0"
 	"NPCID" "183"
 	"PatrolInterruptStrictness" "1"
 	"PatrolTarget" "gt2_pt_1_4"
@@ -105721,6 +105732,7 @@ entity
 	"rendercolor" "255 255 255"
 	"RespawnMaxDelay" "180"
 	"RespawnMinDelay" "90"
+	"silentsquad" "1"
 	"spawnflags" "2"
 	"squadname" "group03_02"
 	"targetname" "group03_elites"
@@ -105749,7 +105761,7 @@ entity
 	"CanRegenHealth" "1"
 	"idlemode" "2"
 	"metadata" "0"
-	"notifyallsquad" "1"
+	"notifyallsquad" "0"
 	"NPCID" "185"
 	"PatrolInterruptStrictness" "1"
 	"PatrolTarget" "gt3_pt_2_1"
@@ -105758,6 +105770,7 @@ entity
 	"rendercolor" "255 255 255"
 	"RespawnMaxDelay" "180"
 	"RespawnMinDelay" "90"
+	"silentsquad" "1"
 	"spawnflags" "2"
 	"squadname" "group03_01"
 	"targetname" "group03_elites"
@@ -105785,7 +105798,7 @@ entity
 	"CanRegenHealth" "1"
 	"idlemode" "2"
 	"metadata" "0"
-	"notifyallsquad" "1"
+	"notifyallsquad" "0"
 	"NPCID" "183"
 	"PatrolInterruptStrictness" "1"
 	"PatrolTarget" "gt3_pt_3_1"
@@ -105794,6 +105807,7 @@ entity
 	"rendercolor" "255 255 255"
 	"RespawnMaxDelay" "180"
 	"RespawnMinDelay" "90"
+	"silentsquad" "1"
 	"spawnflags" "2"
 	"squadname" "group03_01"
 	"targetname" "group03_elites"
@@ -105822,7 +105836,7 @@ entity
 	"CanRegenHealth" "1"
 	"idlemode" "2"
 	"metadata" "0"
-	"notifyallsquad" "1"
+	"notifyallsquad" "0"
 	"NPCID" "183"
 	"PatrolInterruptStrictness" "1"
 	"PatrolTarget" "gt2_pt_3_1"
@@ -105831,6 +105845,7 @@ entity
 	"rendercolor" "255 255 255"
 	"RespawnMaxDelay" "180"
 	"RespawnMinDelay" "90"
+	"silentsquad" "1"
 	"spawnflags" "2"
 	"squadname" "group03_02"
 	"targetname" "group03_elites"
@@ -105859,7 +105874,7 @@ entity
 	"CanRegenHealth" "1"
 	"idlemode" "2"
 	"metadata" "0"
-	"notifyallsquad" "1"
+	"notifyallsquad" "0"
 	"NPCID" "185"
 	"PatrolInterruptStrictness" "1"
 	"PatrolTarget" "gt2_pt_2_1"
@@ -105868,6 +105883,7 @@ entity
 	"rendercolor" "255 255 255"
 	"RespawnMaxDelay" "180"
 	"RespawnMinDelay" "90"
+	"silentsquad" "1"
 	"spawnflags" "2"
 	"squadname" "group03_02"
 	"targetname" "group03_elites"
@@ -105895,7 +105911,7 @@ entity
 	"CanRegenHealth" "1"
 	"idlemode" "2"
 	"metadata" "0"
-	"notifyallsquad" "1"
+	"notifyallsquad" "0"
 	"NPCID" "183"
 	"PatrolInterruptStrictness" "1"
 	"PatrolTarget" "gt2_pt_3_4"
@@ -105904,6 +105920,7 @@ entity
 	"rendercolor" "255 255 255"
 	"RespawnMaxDelay" "180"
 	"RespawnMinDelay" "90"
+	"silentsquad" "1"
 	"spawnflags" "2"
 	"squadname" "group03_02"
 	"targetname" "group03_elites"
@@ -105932,7 +105949,7 @@ entity
 	"CanRegenHealth" "1"
 	"idlemode" "2"
 	"metadata" "0"
-	"notifyallsquad" "1"
+	"notifyallsquad" "0"
 	"NPCID" "185"
 	"PatrolInterruptStrictness" "1"
 	"PatrolTarget" "gt3_pt_2_4"
@@ -105941,6 +105958,7 @@ entity
 	"rendercolor" "255 255 255"
 	"RespawnMaxDelay" "180"
 	"RespawnMinDelay" "90"
+	"silentsquad" "1"
 	"spawnflags" "2"
 	"squadname" "group03_01"
 	"targetname" "group03_elites"
@@ -105968,7 +105986,7 @@ entity
 	"CanRegenHealth" "1"
 	"idlemode" "2"
 	"metadata" "0"
-	"notifyallsquad" "1"
+	"notifyallsquad" "0"
 	"NPCID" "183"
 	"PatrolInterruptStrictness" "1"
 	"PatrolTarget" "gt3_pt_3_4"
@@ -105977,6 +105995,7 @@ entity
 	"rendercolor" "255 255 255"
 	"RespawnMaxDelay" "180"
 	"RespawnMinDelay" "90"
+	"silentsquad" "1"
 	"spawnflags" "2"
 	"squadname" "group03_01"
 	"targetname" "group03_elites"
@@ -106005,7 +106024,7 @@ entity
 	"CanRegenHealth" "1"
 	"idlemode" "2"
 	"metadata" "0"
-	"notifyallsquad" "1"
+	"notifyallsquad" "0"
 	"NPCID" "183"
 	"PatrolInterruptStrictness" "1"
 	"PatrolTarget" "gt3_pt_1_4"
@@ -106014,6 +106033,7 @@ entity
 	"rendercolor" "255 255 255"
 	"RespawnMaxDelay" "180"
 	"RespawnMinDelay" "90"
+	"silentsquad" "1"
 	"spawnflags" "2"
 	"squadname" "group03_01"
 	"targetname" "group03_elites"
@@ -106042,7 +106062,7 @@ entity
 	"CanRegenHealth" "1"
 	"idlemode" "2"
 	"metadata" "0"
-	"notifyallsquad" "1"
+	"notifyallsquad" "0"
 	"NPCID" "183"
 	"PatrolInterruptStrictness" "1"
 	"PatrolTarget" "gt2_pt_1_1"
@@ -106051,6 +106071,7 @@ entity
 	"rendercolor" "255 255 255"
 	"RespawnMaxDelay" "180"
 	"RespawnMinDelay" "90"
+	"silentsquad" "1"
 	"spawnflags" "2"
 	"squadname" "group03_02"
 	"targetname" "group03_elites"
@@ -106079,7 +106100,7 @@ entity
 	"CanRegenHealth" "1"
 	"idlemode" "2"
 	"metadata" "0"
-	"notifyallsquad" "1"
+	"notifyallsquad" "0"
 	"NPCID" "183"
 	"PatrolInterruptStrictness" "1"
 	"PatrolTarget" "gt3_pt_1_1"
@@ -106088,6 +106109,7 @@ entity
 	"rendercolor" "255 255 255"
 	"RespawnMaxDelay" "180"
 	"RespawnMinDelay" "90"
+	"silentsquad" "1"
 	"spawnflags" "2"
 	"squadname" "group03_01"
 	"targetname" "group03_elites"
@@ -106628,6 +106650,22 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "77954"
+	"classname" "logic_quest_progress"
+	"metadata" "0"
+	"QuestID" "110"
+	"targetname" "quest_daily"
+	"origin" "1111 1518 411"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
 	}
 }
 cameras

@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "1800"
+	"mapversion" "1804"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -119,7 +119,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "1800"
+	"mapversion" "1804"
 	"classname" "worldspawn"
 	"defaultsoundscape" "lightfall.outside"
 	"detailmaterial" "detail/detailsprites"
@@ -720964,13 +720964,73 @@ entity
 		"logicalpos" "[2000 3500]"
 	}
 }
+entity
+{
+	"id" "1329335"
+	"classname" "info_map_label"
+	"origin" "5055 -2852 227"
+	"Radius" "2000"
+	"Token" "#INF_MAP_LABEL_LIGHTFALL_A"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1329354"
+	"classname" "info_map_label"
+	"origin" "1176 -8952 -567"
+	"Radius" "2000"
+	"Token" "#INF_MAP_LABEL_LIGHTFALL_B"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1329363"
+	"classname" "info_map_label"
+	"origin" "13240 -10327 183"
+	"Radius" "1706"
+	"Token" "#INF_MAP_LABEL_LIGHTFALL_C"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1329376"
+	"classname" "info_map_label"
+	"origin" "12224 -15485 10"
+	"Radius" "938"
+	"Token" "#INF_MAP_LABEL_LIGHTFALL_D"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[5444.17 137.841 226.336]"
-		"look" "[30929.6 24070.2 -8231.58]"
+		"position" "[12250.9 -15693.9 40.4826]"
+		"look" "[6601.87 19183.9 -6699.53]"
 	}
 }
 cordons
