@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "308"
+	"mapversion" "312"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -95,7 +95,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "308"
+	"mapversion" "312"
 	"classname" "worldspawn"
 	"defaultsoundscape" "bloodstone.default"
 	"detailmaterial" "detail/detailsprites"
@@ -80276,7 +80276,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -80377,7 +80377,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -80478,7 +80478,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -80579,7 +80579,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -80680,7 +80680,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -80781,7 +80781,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -80882,7 +80882,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -80983,7 +80983,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -81104,7 +81104,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -81225,7 +81225,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -81346,7 +81346,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -81467,7 +81467,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -81588,7 +81588,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -81709,7 +81709,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -81830,7 +81830,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -81951,7 +81951,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -82072,7 +82072,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -82193,7 +82193,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -82314,7 +82314,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -82435,7 +82435,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -82556,7 +82556,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -82677,7 +82677,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -82798,7 +82798,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -82919,7 +82919,7 @@ hidden
 				editor
 				{
 					"color" "0 180 0"
-					"visgroupshown" "0"
+					"visgroupshown" "1"
 					"visgroupautoshown" "1"
 				}
 			}
@@ -103430,6 +103430,8 @@ entity
 		"OnTrigger" "respawn_timer,Kill,,0.05,-1"
 		"OnTrigger" "quest_1,ProgressAll,,0,-1"
 		"OnTrigger" "quest_daily,ProgressAll,,0.03,-1"
+		"OnTrigger" "door00_closer,Kill,,0,-1"
+		"OnTrigger" "door00_opener,Kill,,0,-1"
 	}
 	"origin" "1143 1518 251"
 	editor
@@ -103975,8 +103977,8 @@ entity
 	"targetname" "respawn_timer"
 	connections
 	{
-		"OnFail" "door00,Open,,0,-1"
-		"OnFail" "door00,Close,,4,-1"
+		"OnFail" "door00_opener,Trigger,,0,-1"
+		"OnFail" "door00_closer,Trigger,,4,-1"
 	}
 	"origin" "1127 2705 39"
 	editor
@@ -106376,6 +106378,8 @@ entity
 		"OnTrigger" "dialogue,PrintDialogue,#INF_MAP_BLOODSTONE_ARENA_FINAL2,0,1"
 		"OnTrigger" "door00,Open,,0.1,1"
 		"OnTrigger" "respawn_timer,Kill,,0.05,1"
+		"OnTrigger" "door00_closer,Kill,,0,1"
+		"OnTrigger" "door00_opener,Kill,,0,1"
 	}
 	"origin" "1143 1518 268"
 	editor
@@ -106666,6 +106670,44 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "79176"
+	"classname" "logic_relay"
+	"spawnflags" "0"
+	"targetname" "door00_opener"
+	connections
+	{
+		"OnTrigger" "door00,Open,,0,-1"
+	}
+	"origin" "1088 2705 39"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "79181"
+	"classname" "logic_relay"
+	"spawnflags" "0"
+	"targetname" "door00_closer"
+	connections
+	{
+		"OnTrigger" "door00,Close,,0,-1"
+	}
+	"origin" "1104 2705 39"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
 	}
 }
 cameras
