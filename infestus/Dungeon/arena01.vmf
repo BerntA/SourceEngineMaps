@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8869"
-	"mapversion" "312"
+	"mapversion" "315"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -95,7 +95,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "312"
+	"mapversion" "315"
 	"classname" "worldspawn"
 	"defaultsoundscape" "bloodstone.default"
 	"detailmaterial" "detail/detailsprites"
@@ -106297,16 +106297,17 @@ entity
 entity
 {
 	"id" "72109"
-	"classname" "npc_combatant"
+	"classname" "npc_custom_henry_bloodstone"
 	"angles" "0 0 0"
 	"CanPrintDialogue" "0"
 	"CanRegenHealth" "1"
 	"idlemode" "2"
+	"idlemoderevertto" "1"
 	"metadata" "0"
 	"notifyallsquad" "0"
 	"NPCID" "187"
 	"PatrolInterruptStrictness" "1"
-	"PatrolTarget" "gt1_pt_2_4"
+	"PatrolTarget" "final_target"
 	"physdamagescale" "1.0"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
@@ -106702,6 +106703,22 @@ entity
 		"OnTrigger" "door00,Close,,0,-1"
 	}
 	"origin" "1104 2705 39"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "80413"
+	"classname" "info_target"
+	"angles" "0 0 0"
+	"origin" "1127 1518 94"
+	"spawnflags" "0"
+	"targetname" "final_target"
 	editor
 	{
 		"color" "220 30 220"
