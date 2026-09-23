@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9008"
-	"mapversion" "440"
+	"mapversion" "443"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "440"
+	"mapversion" "443"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/l4d_detailsprites_overgrown"
 	"detailvbsp" "l4d_detail.vbsp"
@@ -78762,6 +78762,690 @@ world
 			"visgroupautoshown" "1"
 		}
 	}
+	solid
+	{
+		"id" "72174"
+		side
+		{
+			"id" "20266"
+			"plane" "(-6184 -6576 1384) (-4992 -6576 1384) (-4992 -6880 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20267"
+			"plane" "(-6184 -6880 224) (-4992 -6880 224) (-4992 -6576 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20268"
+			"plane" "(-6184 -6576 1384) (-6184 -6880 1384) (-6184 -6880 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20269"
+			"plane" "(-4992 -6576 224) (-4992 -6880 224) (-4992 -6880 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20270"
+			"plane" "(-4992 -6576 1384) (-6184 -6576 1384) (-6184 -6576 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20271"
+			"plane" "(-4992 -6880 224) (-6184 -6880 224) (-6184 -6880 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 189 222"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "72182"
+		side
+		{
+			"id" "20272"
+			"plane" "(-6240 -3072 1384) (-6072 -3072 1384) (-6072 -6576 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20273"
+			"plane" "(-6240 -6576 224) (-6072 -6576 224) (-6072 -3072 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20274"
+			"plane" "(-6240 -3072 1384) (-6240 -6576 1384) (-6240 -6576 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20275"
+			"plane" "(-6072 -3072 224) (-6072 -6576 224) (-6072 -6576 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20276"
+			"plane" "(-6072 -3072 1384) (-6240 -3072 1384) (-6240 -3072 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20277"
+			"plane" "(-6072 -6576 224) (-6240 -6576 224) (-6240 -6576 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 197 250"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "72186"
+		side
+		{
+			"id" "20278"
+			"plane" "(-5936 -5480 1384) (-5936 -5744 1384) (-6072 -6072 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20279"
+			"plane" "(-5936 -5744 224) (-5936 -5480 224) (-6072 -5120 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20280"
+			"plane" "(-6072 -6072 1384) (-6072 -6072 224) (-6072 -5120 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20281"
+			"plane" "(-5936 -5744 224) (-5936 -5744 1384) (-5936 -5480 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20282"
+			"plane" "(-6072 -5120 1384) (-6072 -5120 224) (-5936 -5480 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20283"
+			"plane" "(-6072 -6072 224) (-6072 -6072 1384) (-5936 -5744 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 193 186"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "72188"
+		side
+		{
+			"id" "20284"
+			"plane" "(-5933 -4915 1384) (-5960 -5027 1384) (-6072 -5063 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20285"
+			"plane" "(-5960 -5027 224) (-5933 -4915 224) (-6072 -4860 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20286"
+			"plane" "(-6072 -5063 1384) (-6072 -5063 224) (-6072 -4860 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20287"
+			"plane" "(-5960 -5027 224) (-5960 -5027 1384) (-5933 -4915 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20288"
+			"plane" "(-6072 -4860 1384) (-6072 -4860 224) (-5933 -4915 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20289"
+			"plane" "(-6072 -5063 224) (-6072 -5063 1384) (-5960 -5027 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 157 190"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "72190"
+		side
+		{
+			"id" "20290"
+			"plane" "(-5968 -4128 1384) (-5978 -4399 1384) (-6072 -4624 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20291"
+			"plane" "(-5978 -4399 224) (-5968 -4128 224) (-6072 -3700 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20292"
+			"plane" "(-6072 -4624 1384) (-6072 -4624 224) (-6072 -3700 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20293"
+			"plane" "(-5978 -4399 224) (-5978 -4399 1384) (-5968 -4128 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20294"
+			"plane" "(-6072 -3700 1384) (-6072 -3700 224) (-5968 -4128 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20295"
+			"plane" "(-6072 -4624 224) (-6072 -4624 1384) (-5978 -4399 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 245 126"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "72197"
+		side
+		{
+			"id" "20296"
+			"plane" "(-6072 -3072 1384) (-4144 -3072 1384) (-4144 -3136 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20297"
+			"plane" "(-6072 -3136 224) (-4144 -3136 224) (-4144 -3072 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20298"
+			"plane" "(-6072 -3072 1384) (-6072 -3136 1384) (-6072 -3136 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20299"
+			"plane" "(-4144 -3072 224) (-4144 -3136 224) (-4144 -3136 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20300"
+			"plane" "(-4144 -3072 1384) (-6072 -3072 1384) (-6072 -3072 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20301"
+			"plane" "(-4144 -3136 224) (-6072 -3136 224) (-6072 -3136 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 211 160"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "72201"
+		side
+		{
+			"id" "20302"
+			"plane" "(-4888 -3136 1384) (-4856 -3136 1384) (-4856 -3184 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20303"
+			"plane" "(-4888 -3184 224) (-4856 -3184 224) (-4856 -3136 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20304"
+			"plane" "(-4888 -3136 1384) (-4888 -3184 1384) (-4888 -3184 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20305"
+			"plane" "(-4856 -3136 224) (-4856 -3184 224) (-4856 -3184 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20306"
+			"plane" "(-4856 -3136 1384) (-4888 -3136 1384) (-4888 -3136 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20307"
+			"plane" "(-4856 -3184 224) (-4888 -3184 224) (-4888 -3184 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 139 116"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "72259"
+		side
+		{
+			"id" "20308"
+			"plane" "(-4182 8900 1384) (-3392 8900 1384) (-3392 4422 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20309"
+			"plane" "(-4182 4422 224) (-3392 4422 224) (-3392 8900 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 -1 0 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20310"
+			"plane" "(-4182 8900 1384) (-4182 4422 1384) (-4182 4422 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20311"
+			"plane" "(-3392 8900 224) (-3392 4422 224) (-3392 4422 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[0 1 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20312"
+			"plane" "(-3392 8900 1384) (-4182 8900 1384) (-4182 8900 224)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20313"
+			"plane" "(-3392 4422 224) (-4182 4422 224) (-4182 4422 1384)"
+			"material" "TOOLS/TOOLSCLIP"
+			"uaxis" "[1 0 0 0] 1"
+			"vaxis" "[0 0 -1 0] 1"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 231 172"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "72262"
+		side
+		{
+			"id" "20314"
+			"plane" "(-3392 8900 1384) (13236 8900 1384) (13236 8110 1384)"
+			"material" "AFRIKA/BLEND_GRASS_DRY01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20315"
+			"plane" "(-3392 8110 224) (13236 8110 224) (13236 8900 224)"
+			"material" "AFRIKA/BLEND_GRASS_DRY01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20316"
+			"plane" "(-3392 8900 1384) (-3392 8110 1384) (-3392 8110 224)"
+			"material" "AFRIKA/BLEND_GRASS_DRY01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20317"
+			"plane" "(13236 8900 224) (13236 8110 224) (13236 8110 1384)"
+			"material" "AFRIKA/BLEND_GRASS_DRY01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20318"
+			"plane" "(13236 8900 1384) (-3392 8900 1384) (-3392 8900 224)"
+			"material" "AFRIKA/BLEND_GRASS_DRY01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "20319"
+			"plane" "(13236 8110 224) (-3392 8110 224) (-3392 8110 1384)"
+			"material" "AFRIKA/BLEND_GRASS_DRY01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 225 146"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
 	group
 	{
 		"id" "7955"
@@ -79099,6 +79783,1684 @@ world
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
+	}
+}
+entity
+{
+	"id" "68647"
+	"classname" "prop_static"
+	"angles" "0 81.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8853 -4898 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68717"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "68616"
+	"classname" "prop_static"
+	"angles" "0 28.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8769 -4925 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68717"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "68659"
+	"classname" "prop_static"
+	"angles" "0 104.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8890 -4803 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68717"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "68671"
+	"classname" "prop_static"
+	"angles" "0 145 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8916 -4687 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68717"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "68683"
+	"classname" "prop_static"
+	"angles" "0 182 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8850 -4620 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68717"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "68721"
+	"classname" "prop_static"
+	"angles" "0 81.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8853 -967 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68718"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "68725"
+	"classname" "prop_static"
+	"angles" "0 28.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8769 -994 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68718"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "68729"
+	"classname" "prop_static"
+	"angles" "0 104.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8890 -872 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68718"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "68733"
+	"classname" "prop_static"
+	"angles" "0 145 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8916 -756 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68718"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "68737"
+	"classname" "prop_static"
+	"angles" "0 182 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8850 -689 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68718"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "68857"
+	"classname" "prop_static"
+	"angles" "0 81.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8853 3771 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68854"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "68861"
+	"classname" "prop_static"
+	"angles" "0 28.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8769 3744 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68854"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "68865"
+	"classname" "prop_static"
+	"angles" "0 104.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8890 3866 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68854"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "68869"
+	"classname" "prop_static"
+	"angles" "0 145 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8916 3982 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68854"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "68873"
+	"classname" "prop_static"
+	"angles" "0 182 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8850 4049 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68854"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "68908"
+	"classname" "prop_static"
+	"angles" "0 81.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8853 -9010 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68905"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "68912"
+	"classname" "prop_static"
+	"angles" "0 28.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8769 -9037 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68905"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "68916"
+	"classname" "prop_static"
+	"angles" "0 104.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8890 -8915 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68905"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "68920"
+	"classname" "prop_static"
+	"angles" "0 145 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8916 -8799 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68905"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "68924"
+	"classname" "prop_static"
+	"angles" "0 182 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8850 -8732 705"
+	editor
+	{
+		"color" "116 177 0"
+		"groupid" "68905"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69022"
+	"classname" "prop_static"
+	"angles" "0 14.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8082 -9523 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69116"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69018"
+	"classname" "prop_static"
+	"angles" "0 351.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "7987 -9486 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69116"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69014"
+	"classname" "prop_static"
+	"angles" "0 298.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "7960 -9402 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69116"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69026"
+	"classname" "prop_static"
+	"angles" "0 55 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8198 -9549 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69116"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69030"
+	"classname" "prop_static"
+	"angles" "0 92 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8265 -9483 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69116"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69120"
+	"classname" "prop_static"
+	"angles" "0 14.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "3319 -9523 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69117"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69124"
+	"classname" "prop_static"
+	"angles" "0 351.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "3224 -9486 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69117"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69128"
+	"classname" "prop_static"
+	"angles" "0 298.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "3197 -9402 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69117"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69132"
+	"classname" "prop_static"
+	"angles" "0 55 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "3435 -9549 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69117"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69136"
+	"classname" "prop_static"
+	"angles" "0 92 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "3502 -9483 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69117"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69171"
+	"classname" "prop_static"
+	"angles" "0 14.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-206 -10723 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69168"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69175"
+	"classname" "prop_static"
+	"angles" "0 351.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-301 -10686 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69168"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69179"
+	"classname" "prop_static"
+	"angles" "0 298.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-328 -10602 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69168"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69183"
+	"classname" "prop_static"
+	"angles" "0 55 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-90 -10749 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69168"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69187"
+	"classname" "prop_static"
+	"angles" "0 92 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-23 -10683 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69168"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69222"
+	"classname" "prop_static"
+	"angles" "0 14.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-4134 -9523 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69219"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69226"
+	"classname" "prop_static"
+	"angles" "0 351.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-4229 -9486 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69219"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69230"
+	"classname" "prop_static"
+	"angles" "0 298.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-4256 -9402 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69219"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69234"
+	"classname" "prop_static"
+	"angles" "0 55 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-4018 -9549 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69219"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69238"
+	"classname" "prop_static"
+	"angles" "0 92 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-3951 -9483 705"
+	editor
+	{
+		"color" "112 229 0"
+		"groupid" "69219"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69857"
+	"classname" "prop_static"
+	"angles" "0 194.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8178 4557 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "69854"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69861"
+	"classname" "prop_static"
+	"angles" "0 171.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8273 4520 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "69854"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69865"
+	"classname" "prop_static"
+	"angles" "0 118.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8300 4436 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "69854"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69869"
+	"classname" "prop_static"
+	"angles" "0 235 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "8062 4583 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "69854"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69873"
+	"classname" "prop_static"
+	"angles" "0 272 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "7995 4517 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "69854"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "69877"
+	"classname" "prop_static"
+	"angles" "0 90 0"
+	"disableshadows" "1"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/aoc_architecture/statue_dragon02.mdl"
+	"skin" "1"
+	"solid" "6"
+	"origin" "8134 4503 704"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70032"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
+	}
+}
+entity
+{
+	"id" "70037"
+	"classname" "prop_static"
+	"angles" "0 194.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "4930 4557 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70034"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70041"
+	"classname" "prop_static"
+	"angles" "0 171.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "5025 4520 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70034"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70045"
+	"classname" "prop_static"
+	"angles" "0 118.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "5052 4436 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70034"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70049"
+	"classname" "prop_static"
+	"angles" "0 235 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "4814 4583 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70034"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70053"
+	"classname" "prop_static"
+	"angles" "0 272 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "4747 4517 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70034"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70057"
+	"classname" "prop_static"
+	"angles" "0 90 0"
+	"disableshadows" "1"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/aoc_architecture/statue_dragon02.mdl"
+	"skin" "1"
+	"solid" "6"
+	"origin" "4886 4503 704"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70033"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
+	}
+}
+entity
+{
+	"id" "70339"
+	"classname" "prop_static"
+	"angles" "0 194.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "890 4557 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70336"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70343"
+	"classname" "prop_static"
+	"angles" "0 171.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "985 4520 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70336"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70347"
+	"classname" "prop_static"
+	"angles" "0 118.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "1012 4436 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70336"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70351"
+	"classname" "prop_static"
+	"angles" "0 235 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "774 4583 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70336"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70355"
+	"classname" "prop_static"
+	"angles" "0 272 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "707 4517 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70336"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70359"
+	"classname" "prop_static"
+	"angles" "0 90 0"
+	"disableshadows" "1"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/aoc_architecture/statue_dragon02.mdl"
+	"skin" "1"
+	"solid" "6"
+	"origin" "846 4503 704"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70335"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
+	}
+}
+entity
+{
+	"id" "70395"
+	"classname" "prop_static"
+	"angles" "0 194.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-3646 4557 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70392"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70399"
+	"classname" "prop_static"
+	"angles" "0 171.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-3551 4520 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70392"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70403"
+	"classname" "prop_static"
+	"angles" "0 118.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-3524 4436 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70392"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70407"
+	"classname" "prop_static"
+	"angles" "0 235 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-3762 4583 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70392"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70411"
+	"classname" "prop_static"
+	"angles" "0 272 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-3829 4517 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70392"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70415"
+	"classname" "prop_static"
+	"angles" "0 90 0"
+	"disableshadows" "1"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/aoc_architecture/statue_dragon02.mdl"
+	"skin" "1"
+	"solid" "6"
+	"origin" "-3690 4503 704"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70391"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
+	}
+}
+entity
+{
+	"id" "70479"
+	"classname" "prop_static"
+	"angles" "0 284.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-4317 -3510 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70476"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70483"
+	"classname" "prop_static"
+	"angles" "0 261.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-4280 -3415 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70476"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70487"
+	"classname" "prop_static"
+	"angles" "0 208.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-4196 -3388 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70476"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70491"
+	"classname" "prop_static"
+	"angles" "0 325 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-4343 -3626 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70476"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70495"
+	"classname" "prop_static"
+	"angles" "0 1.99999 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-4277 -3693 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70476"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70499"
+	"classname" "prop_static"
+	"angles" "0 180 0"
+	"disableshadows" "1"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/aoc_architecture/statue_dragon02.mdl"
+	"skin" "1"
+	"solid" "6"
+	"origin" "-4263 -3554 704"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70475"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
+	}
+}
+entity
+{
+	"id" "70692"
+	"classname" "prop_static"
+	"angles" "0 284.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-5149 -7246 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70689"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70696"
+	"classname" "prop_static"
+	"angles" "0 261.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-5112 -7151 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70689"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70700"
+	"classname" "prop_static"
+	"angles" "0 208.5 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-5028 -7124 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70689"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70704"
+	"classname" "prop_static"
+	"angles" "0 325 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-5175 -7362 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70689"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70708"
+	"classname" "prop_static"
+	"angles" "0 1.99999 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/props_exterior/wood_spike01.mdl"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-5109 -7429 705"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70689"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9000]"
+	}
+}
+entity
+{
+	"id" "70712"
+	"classname" "prop_static"
+	"angles" "0 180 0"
+	"disableshadows" "1"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"lightmapresolutionx" "32"
+	"lightmapresolutiony" "32"
+	"model" "models/aoc_architecture/statue_dragon02.mdl"
+	"skin" "1"
+	"solid" "6"
+	"origin" "-5095 -7290 704"
+	editor
+	{
+		"color" "174 211 0"
+		"groupid" "70688"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 11500]"
 	}
 }
 entity
@@ -143815,886 +146177,6 @@ entity
 }
 entity
 {
-	"id" "68647"
-	"classname" "prop_static"
-	"angles" "0 81.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8853 -4898 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68717"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "68616"
-	"classname" "prop_static"
-	"angles" "0 28.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8769 -4925 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68717"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "68659"
-	"classname" "prop_static"
-	"angles" "0 104.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8890 -4803 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68717"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "68671"
-	"classname" "prop_static"
-	"angles" "0 145 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8916 -4687 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68717"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "68683"
-	"classname" "prop_static"
-	"angles" "0 182 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8850 -4620 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68717"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "68721"
-	"classname" "prop_static"
-	"angles" "0 81.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8853 -967 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68718"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "68725"
-	"classname" "prop_static"
-	"angles" "0 28.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8769 -994 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68718"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "68729"
-	"classname" "prop_static"
-	"angles" "0 104.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8890 -872 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68718"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "68733"
-	"classname" "prop_static"
-	"angles" "0 145 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8916 -756 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68718"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "68737"
-	"classname" "prop_static"
-	"angles" "0 182 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8850 -689 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68718"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "68857"
-	"classname" "prop_static"
-	"angles" "0 81.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8853 3771 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68854"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "68861"
-	"classname" "prop_static"
-	"angles" "0 28.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8769 3744 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68854"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "68865"
-	"classname" "prop_static"
-	"angles" "0 104.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8890 3866 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68854"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "68869"
-	"classname" "prop_static"
-	"angles" "0 145 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8916 3982 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68854"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "68873"
-	"classname" "prop_static"
-	"angles" "0 182 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8850 4049 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68854"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "68908"
-	"classname" "prop_static"
-	"angles" "0 81.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8853 -9010 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68905"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "68912"
-	"classname" "prop_static"
-	"angles" "0 28.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8769 -9037 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68905"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "68916"
-	"classname" "prop_static"
-	"angles" "0 104.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8890 -8915 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68905"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "68920"
-	"classname" "prop_static"
-	"angles" "0 145 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8916 -8799 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68905"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "68924"
-	"classname" "prop_static"
-	"angles" "0 182 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8850 -8732 705"
-	editor
-	{
-		"color" "116 177 0"
-		"groupid" "68905"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69022"
-	"classname" "prop_static"
-	"angles" "0 14.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8082 -9523 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69116"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69018"
-	"classname" "prop_static"
-	"angles" "0 351.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "7987 -9486 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69116"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69014"
-	"classname" "prop_static"
-	"angles" "0 298.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "7960 -9402 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69116"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69026"
-	"classname" "prop_static"
-	"angles" "0 55 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8198 -9549 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69116"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69030"
-	"classname" "prop_static"
-	"angles" "0 92 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8265 -9483 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69116"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69120"
-	"classname" "prop_static"
-	"angles" "0 14.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "3319 -9523 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69117"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69124"
-	"classname" "prop_static"
-	"angles" "0 351.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "3224 -9486 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69117"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69128"
-	"classname" "prop_static"
-	"angles" "0 298.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "3197 -9402 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69117"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69132"
-	"classname" "prop_static"
-	"angles" "0 55 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "3435 -9549 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69117"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69136"
-	"classname" "prop_static"
-	"angles" "0 92 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "3502 -9483 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69117"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69171"
-	"classname" "prop_static"
-	"angles" "0 14.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-206 -10723 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69168"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69175"
-	"classname" "prop_static"
-	"angles" "0 351.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-301 -10686 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69168"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69179"
-	"classname" "prop_static"
-	"angles" "0 298.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-328 -10602 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69168"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69183"
-	"classname" "prop_static"
-	"angles" "0 55 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-90 -10749 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69168"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69187"
-	"classname" "prop_static"
-	"angles" "0 92 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-23 -10683 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69168"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69222"
-	"classname" "prop_static"
-	"angles" "0 14.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-4134 -9523 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69219"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69226"
-	"classname" "prop_static"
-	"angles" "0 351.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-4229 -9486 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69219"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69230"
-	"classname" "prop_static"
-	"angles" "0 298.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-4256 -9402 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69219"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69234"
-	"classname" "prop_static"
-	"angles" "0 55 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-4018 -9549 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69219"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69238"
-	"classname" "prop_static"
-	"angles" "0 92 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-3951 -9483 705"
-	editor
-	{
-		"color" "112 229 0"
-		"groupid" "69219"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
 	"id" "69646"
 	"classname" "prop_static"
 	"angles" "0 0 0"
@@ -144978,671 +146460,6 @@ entity
 }
 entity
 {
-	"id" "69857"
-	"classname" "prop_static"
-	"angles" "0 194.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8178 4557 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "69854"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69861"
-	"classname" "prop_static"
-	"angles" "0 171.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8273 4520 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "69854"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69865"
-	"classname" "prop_static"
-	"angles" "0 118.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8300 4436 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "69854"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69869"
-	"classname" "prop_static"
-	"angles" "0 235 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "8062 4583 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "69854"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69873"
-	"classname" "prop_static"
-	"angles" "0 272 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "7995 4517 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "69854"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "69877"
-	"classname" "prop_static"
-	"angles" "0 90 0"
-	"disableshadows" "1"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/aoc_architecture/statue_dragon02.mdl"
-	"skin" "1"
-	"solid" "6"
-	"origin" "8134 4503 704"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70032"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 11500]"
-	}
-}
-entity
-{
-	"id" "70037"
-	"classname" "prop_static"
-	"angles" "0 194.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "4930 4557 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70034"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70041"
-	"classname" "prop_static"
-	"angles" "0 171.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "5025 4520 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70034"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70045"
-	"classname" "prop_static"
-	"angles" "0 118.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "5052 4436 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70034"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70049"
-	"classname" "prop_static"
-	"angles" "0 235 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "4814 4583 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70034"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70053"
-	"classname" "prop_static"
-	"angles" "0 272 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "4747 4517 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70034"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70057"
-	"classname" "prop_static"
-	"angles" "0 90 0"
-	"disableshadows" "1"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/aoc_architecture/statue_dragon02.mdl"
-	"skin" "1"
-	"solid" "6"
-	"origin" "4886 4503 704"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70033"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 11500]"
-	}
-}
-entity
-{
-	"id" "70339"
-	"classname" "prop_static"
-	"angles" "0 194.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "890 4557 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70336"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70343"
-	"classname" "prop_static"
-	"angles" "0 171.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "985 4520 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70336"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70347"
-	"classname" "prop_static"
-	"angles" "0 118.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "1012 4436 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70336"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70351"
-	"classname" "prop_static"
-	"angles" "0 235 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "774 4583 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70336"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70355"
-	"classname" "prop_static"
-	"angles" "0 272 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "707 4517 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70336"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70359"
-	"classname" "prop_static"
-	"angles" "0 90 0"
-	"disableshadows" "1"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/aoc_architecture/statue_dragon02.mdl"
-	"skin" "1"
-	"solid" "6"
-	"origin" "846 4503 704"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70335"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 11500]"
-	}
-}
-entity
-{
-	"id" "70395"
-	"classname" "prop_static"
-	"angles" "0 194.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-3646 4557 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70392"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70399"
-	"classname" "prop_static"
-	"angles" "0 171.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-3551 4520 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70392"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70403"
-	"classname" "prop_static"
-	"angles" "0 118.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-3524 4436 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70392"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70407"
-	"classname" "prop_static"
-	"angles" "0 235 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-3762 4583 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70392"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70411"
-	"classname" "prop_static"
-	"angles" "0 272 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-3829 4517 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70392"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70415"
-	"classname" "prop_static"
-	"angles" "0 90 0"
-	"disableshadows" "1"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/aoc_architecture/statue_dragon02.mdl"
-	"skin" "1"
-	"solid" "6"
-	"origin" "-3690 4503 704"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70391"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 11500]"
-	}
-}
-entity
-{
-	"id" "70479"
-	"classname" "prop_static"
-	"angles" "0 284.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-4317 -3510 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70476"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70483"
-	"classname" "prop_static"
-	"angles" "0 261.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-4280 -3415 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70476"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70487"
-	"classname" "prop_static"
-	"angles" "0 208.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-4196 -3388 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70476"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70491"
-	"classname" "prop_static"
-	"angles" "0 325 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-4343 -3626 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70476"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70495"
-	"classname" "prop_static"
-	"angles" "0 1.99999 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-4277 -3693 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70476"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70499"
-	"classname" "prop_static"
-	"angles" "0 180 0"
-	"disableshadows" "1"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/aoc_architecture/statue_dragon02.mdl"
-	"skin" "1"
-	"solid" "6"
-	"origin" "-4263 -3554 704"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70475"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 11500]"
-	}
-}
-entity
-{
 	"id" "70676"
 	"classname" "prop_static"
 	"angles" "-8.2174 193.554 -18.95"
@@ -145660,139 +146477,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -15268]"
-	}
-}
-entity
-{
-	"id" "70692"
-	"classname" "prop_static"
-	"angles" "0 284.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-5149 -7246 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70689"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70696"
-	"classname" "prop_static"
-	"angles" "0 261.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-5112 -7151 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70689"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70700"
-	"classname" "prop_static"
-	"angles" "0 208.5 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-5028 -7124 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70689"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70704"
-	"classname" "prop_static"
-	"angles" "0 325 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-5175 -7362 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70689"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70708"
-	"classname" "prop_static"
-	"angles" "0 1.99999 0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/props_exterior/wood_spike01.mdl"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-5109 -7429 705"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70689"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 9000]"
-	}
-}
-entity
-{
-	"id" "70712"
-	"classname" "prop_static"
-	"angles" "0 180 0"
-	"disableshadows" "1"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"lightmapresolutionx" "32"
-	"lightmapresolutiony" "32"
-	"model" "models/aoc_architecture/statue_dragon02.mdl"
-	"skin" "1"
-	"solid" "6"
-	"origin" "-5095 -7290 704"
-	editor
-	{
-		"color" "174 211 0"
-		"groupid" "70688"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 11500]"
 	}
 }
 entity
